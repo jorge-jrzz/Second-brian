@@ -1,0 +1,3 @@
+Como estudiante, espero que el programa me proporcione una experiencia educativa integral y de calidad, con acceso a recursos y herramientas actualizadas que me permitan adquirir habilidades relevantes en el campo de la tecnología. Deseo poder participar en proyectos prácticos y colaborativos que fomenten el aprendizaje activo y me ayuden a aplicar los conocimientos teóricos en situaciones del mundo real.
+
+Espero una experiencia educativa enriquecedora, con acceso a recursos actualizados, oportunidades de networking y apoyo personalizado. Estoy emocionado por formar parte de este programa y aprovechar al máximo todas las oportunidades que ofrece.

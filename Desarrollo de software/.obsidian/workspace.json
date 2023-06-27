@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "32f797f5237c1238",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8638f73a70e0453",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7c096dc4f959877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Tipos basicos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28c2e6d6d89a4a55",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "504a1ddc11cccfd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac5c05b961c3266a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a01dd986e5dbccf7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "c6bd8e69c342236d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e0bf9e8d1d9fec2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7f7ef66486f76f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "af5553ff46fd2b25",
+    "type": "split",
+    "children": [
+      {
+        "id": "2491426034f32547",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "603ef7bb4cf6f639",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/Tipos basicos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "672b476d0c679acb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/Tipos basicos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1483acaa288943b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d8fd08519e55894",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/Tipos basicos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e7c096dc4f959877",
+  "lastOpenFiles": [
+    "Python/0 - Pytnon.md",
+    "Python/Introducción.md",
+    "Git & GitHub/Git & GitHub.md",
+    "Git & GitHub/What´s Git?.md",
+    "Git & GitHub/What´s Git?.md",
+    "Git & GitHub.md",
+    "Git & GitHub/What´s Git?.md",
+    "PYTHON/Pytnon.md",
+    "HTML & CSS/CSS.md",
+    "HTML & CSS/HTML.md",
+    "HTML & CSS/Desarrollo web.md",
+    "CSS.md",
+    "HTML.md",
+    "Git & GitHub",
+    "carpeta sin título",
+    "HTML & CSS",
+    "JavaScript/JavaScript.md",
+    "PYTHON/Prueba.md",
+    "PYTHON/Clases.md",
+    "PYTHON/Tipos avanzados.md",
+    "PYTHON/Funciones.md",
+    "PYTHON/Tipos basicos.md",
+    "PYTHON/Introducción.md",
+    "PYTHON/Control de flujo.md",
+    "JavaScript",
+    "PYTHON",
+    "Enlaces/Prueba.md",
+    "JavaScript.md",
+    "Enlaces",
+    "🐍 PYTHON.md",
+    "Introducción.md",
+    "Clases.md",
+    "Pasted image 20230512112131.png",
+    "Pasted image 20230512111457.png",
+    "Pasted image 20230512105053.png"
+  ]
+}
