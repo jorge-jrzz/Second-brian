@@ -1,17 +1,17 @@
 {
   "main": {
-    "id": "d986a82d26590f59",
+    "id": "b80586e72e289acb",
     "type": "split",
     "children": [
       {
-        "id": "61776d6b334ccd35",
+        "id": "abe3297fcab08abe",
         "type": "tabs",
         "children": [
           {
-            "id": "f7cb7d0c67cbaacf",
+            "id": "d378d4d7976d9e0d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cbc41e26defe1579",
+    "id": "a012b8c4dbc619a8",
     "type": "split",
     "children": [
       {
-        "id": "231ce0156d13e923",
+        "id": "1b6e23dc6fa4b215",
         "type": "tabs",
         "children": [
           {
-            "id": "b798dbadde317bea",
+            "id": "fb11f2cb5e5badef",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "2f1b57ad041c73d2",
+            "id": "28177f168d0feb93",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "226bd3a8baed63f1",
+            "id": "41b6fad0d1189911",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "0d638cb66896e90b",
+    "id": "5c2c6a8f1122a136",
     "type": "split",
     "children": [
       {
-        "id": "11923e7594739548",
+        "id": "79a896d42462612a",
         "type": "tabs",
         "children": [
           {
-            "id": "b3516d9b95023eec",
+            "id": "f6dd40cc5a59516b",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "88a9a84fa89ac957",
+            "id": "e4407a5e6b423594",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "4f1d17719fca5f42",
+            "id": "eddafacf3b390c1a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "42b038ade62a285f",
+            "id": "10c66a79ddd2d439",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -130,61 +130,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "f7cb7d0c67cbaacf",
+  "active": "d378d4d7976d9e0d",
   "lastOpenFiles": [
+    "Desarrollo de software/Git & GitHub/Git cheat sheet.md",
     "Desarrollo de software/Git & GitHub/Configuracion.md",
-    "ingles.md",
-    "Expectativas con el programa ONE.md",
-    "arqui.md",
-    "Universidad/0 - Universidad.md",
-    "Universidad/Proyecto de ingenieria I/Roles en proyectos de software.md",
-    "Universidad/Proyecto de ingenieria I/Prototipos.md",
-    "Universidad/Proyecto de ingenieria I/Metricas de Software.md",
-    "Universidad/Proyecto de ingenieria I/Fases del desarrollo de Software.md",
-    "Universidad/Proyecto de ingenieria I/Diseño de Software.md",
-    "Universidad/Proyecto de ingenieria I/Descomposición modular.md",
-    "Universidad/Proyecto de ingenieria I/0 - Proyecto de ingenieria I.md",
-    "Universidad/Proyecto de ingenieria I",
-    "Universidad/Images/Proyecto de ingenieria I/Wireframes.png",
-    "Universidad/Images/Proyecto de ingenieria I/valor_factor_ajuste.png",
-    "Universidad/Images/Proyecto de ingenieria I/tester_software.png",
-    "Universidad/Images/Proyecto de ingenieria I/rendimiento.png",
-    "Universidad/Images/Proyecto de ingenieria I/refinamiento.png",
-    "Universidad/Images/Proyecto de ingenieria I/pruebas.png",
-    "Universidad/Images/Proyecto de ingenieria I/prototipo_bajo_nivel.png",
-    "Universidad/Images/Proyecto de ingenieria I/prototipo_2.png",
-    "Universidad/Images/Proyecto de ingenieria I/prototipo_1.png",
-    "Universidad/Images/Proyecto de ingenieria I/proceso_prototipo.png",
-    "Universidad/Images/Proyecto de ingenieria I",
-    "Universidad/Images/Estructuras de datos no lineales",
-    "Universidad/Images/Estructuras de datos lineales",
-    "Universidad/Images",
-    "Universidad/Estructuras de datos no lineales/Introduccion.md",
-    "Universidad/Estructuras de datos no lineales/Arboles.md",
-    "Universidad/Estructuras de datos no lineales/Arboles binarios.md",
-    "Universidad/Estructuras de datos no lineales/Arboles binarios de busqueda.md",
-    "Universidad/Estructuras de datos no lineales/Árboles B.md",
-    "Universidad/Estructuras de datos no lineales/0 - Estructuras de datos no lineales.md",
-    "Universidad/Estructuras de datos no lineales",
-    "Universidad/Estructuras de datos lineales/Pilas.md",
-    "Universidad/Estructuras de datos lineales/Listas enlazadas.md",
-    "Universidad/Estructuras de datos lineales/Alojamiento de memoria en C.md",
-    "Universidad/Estructuras de datos lineales/Administracion de memoria.md",
-    "Universidad/Estructuras de datos lineales/0 - Estructuras de datos lineales.md",
-    "Universidad/Estructuras de datos lineales",
-    "Universidad/Arquitectura de computadoras/Sistemas combinacionales y secuenciales.md",
-    "Universidad/Arquitectura de computadoras/Organización y arquitectura.md",
-    "Universidad/Arquitectura de computadoras/Lenguaje de bajo nivel.md",
-    "Universidad/Arquitectura de computadoras",
-    "Universidad",
-    "Gallery"
+    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md"
   ]
 }

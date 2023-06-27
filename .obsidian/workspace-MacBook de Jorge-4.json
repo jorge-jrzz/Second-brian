@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "f51f2bdf41d29610",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfb30b6b9fbc281c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2a928702121bef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universidad/Proyecto de ingenieria I/0 - Proyecto de ingenieria I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfe502832e92b13a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ff2e3263129498e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e5dd6fc7331705c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed4f69648f467c6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1228f3e91fae9dc6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "right": {
+    "id": "d3ed852f0ab59913",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b7c95a6d0b1cebd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb9e9afa2b9fe314",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Universidad/Proyecto de ingenieria I/0 - Proyecto de ingenieria I.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bc4baf916ba4ac2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Universidad/Proyecto de ingenieria I/0 - Proyecto de ingenieria I.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "245483bc465ae56d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e2cee3eea1e04c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Universidad/Proyecto de ingenieria I/0 - Proyecto de ingenieria I.md"
+              }
+            }
+          },
+          {
+            "id": "e4afef7a25af6ce4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "canvas:Create new canvas": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "d2a928702121bef4",
+  "lastOpenFiles": [
+    "English/B1/0 - Temas.md",
+    "Universidad/Arquitectura de computadoras/0 - Arquitectura de computadoras.md",
+    "Universidad/Arquitectura de computadoras/Estructura basica de un microprocesador.md",
+    "resumen.md",
+    "Universidad/Arquitectura de computadoras/Lenguaje de bajo nivel.md",
+    "Desarrollo de software/Python/0 - Python.md",
+    "Desarrollo de software/Python/APIs.md",
+    "Universidad/0 - Universidad.md",
+    "Universidad/Estructuras de datos lineales/Administracion de memoria.md",
+    "Universidad/Arquitectura de computadoras/Sistemas combinacionales y secuenciales.md",
+    "Universidad/Arquitectura de computadoras/Organización y arquitectura.md",
+    "Lenguaje de bajo nivel.md",
+    "Estructura basica de un microprocesador.md",
+    "Organización y arquitectura.md",
+    "Sistemas combinacionales y secuenciales.md",
+    "English/0 - English.md",
+    "Desarrollo de software/Q&A.md",
+    "Universidad/Proyecto de ingenieria I/0 - Proyecto de ingenieria I.md",
+    "Universidad/Proyecto de ingenieria I/Roles en proyectos de software.md",
+    "Universidad/Proyecto de ingenieria I/Métricas de Software.md",
+    "Universidad/Proyecto de ingenieria I/Descomposición modular.md",
+    "Gallery/viking-2-image-of-mars-utopian-plain_7651153704_o.jpg",
+    "Gallery/zebra-stripes-on-the-moon_35223042430_o.png",
+    "Gallery/the-mercury-7_15258556433_o.jpg",
+    "Gallery/the-earth-and-moon_9464664545_o.jpg",
+    "Gallery/terraced-wall-crater-on-the-lunar-limb_9460179952_o.jpg",
+    "Gallery/lunar-rover_29798990354_o.jpg",
+    "Gallery/international-space-station_15357921727_o.jpg",
+    "Gallery/grail-launch_8981696044_o.jpg",
+    "Gallery/friendship-7_4940913342_o.jpg",
+    "Gallery/galileo-images-the-moon_9458193857_o.jpg",
+    "English/Verb lists.md",
+    "English/B1/Transportation.md",
+    "English/B1/Challenges.md",
+    "Universidad/Images/Proyecto de ingenieria I/atributos_calidad.png~RF58136695.TMP",
+    "Universidad/Images/Estructuras de datos no lineales/camino_interno.png~RF58135fbf.TMP",
+    "Gallery/backpacking_5134455469_o.jpg~RF581351f3.TMP",
+    "Gallery/false-color-lunar-image_9460965180_o.jpg~RF58134f54.TMP",
+    "Gallery/earth-and-moon-by-osiris-rex_23544781998_o.jpg~RF581348cc.TMP",
+    "Gallery/first-view-of-earth-from-moon_5052127179_o.jpg~RF581342f0.TMP",
+    "Gallery/galileo-images-the-moon_9458193857_o.jpg~RF581342b1.TMP",
+    "Gallery/lunar-prospector-in-clean-room_9460230002_o.jpg~RF58133beb.TMP",
+    "Gallery/supermoon-lunar-eclipse_37096327320_o.jpg~RF58132eeb.TMP",
+    "Gallery/sts-1-launch_4858568740_o.jpg~RF58132ca9.TMP",
+    "Desarrollo de software/Git & GitHub/Git cheat sheet.md",
+    "Universidad/Estructuras de datos lineales/Alojamiento de memoria en C.md"
+  ]
+}
