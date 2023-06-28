@@ -6,7 +6,7 @@ banner_y: 0.324
 
 # Organización y arquitectura de computadoras.
 
-La organización y arquitectura de computadoras es el estudio de los principios fundamentales que gobiernan el diseño de sistemas de computadoras. Esta disciplina abarca desde los componentes básicos de una computadora hasta la interconexión de subsistemas y el rendimiento general del sistema. En este apunte, exploraremos los conceptos clave de la organización y arquitectura de computadoras.
+La organización y arquitectura de computadoras es el estudio de los principios fundamentales que gobiernan el diseño de sistemas de computadoras. Esta disciplina abarca desde los componentes básicos de una computadora hasta la interconexión de subsistemas y el rendimiento general del sistema. 
 
 ## Estructura Básica de una Computadora
 
@@ -22,6 +22,16 @@ Una computadora típica consta de los siguientes componentes principales:
 
 5. **Dispositivos de Almacenamiento**: Se utilizan para almacenar datos a largo plazo. Esto incluye discos duros, unidades de estado sólido (SSD) y dispositivos de almacenamiento externos como unidades USB.
 
+## Diferencia entre arquitectura y organización.
+
+#### Arquitectura de computadoras: 
+La arquitectura de computadoras se refiere al diseño conceptual y estructural de un sistema informático, incluyendo la forma en que los diferentes componentes interactúan entre sí y cómo se organizan para realizar tareas específicas. Esto incluye aspectos como el conjunto de instrucciones (instruction set), la estructura y organización de la memoria, la jerarquía de almacenamiento, el modelo de ejecución y la interconexión de los componentes principales, como la unidad central de procesamiento (CPU), la memoria, los dispositivos de entrada y salida, entre otros. La arquitectura de computadoras establece las bases para el funcionamiento de los sistemas informáticos y determina su capacidad de procesamiento, rendimiento, eficiencia energética, entre otros aspectos.
+
+#### Organización de computadoras:
+La organización de computadoras se refiere a la forma en que se implementa la arquitectura de un sistema informático. Se ocupa de los detalles prácticos de cómo se construye y se interconecta físicamente el hardware para ejecutar las operaciones definidas en la arquitectura. Esto incluye aspectos como la selección de componentes específicos, la elección de tecnologías de interconexión, el diseño de circuitos electrónicos, el esquema de direccionamiento de memoria, la gestión de interrupciones y otros aspectos relacionados con la implementación física del sistema informático. La organización de computadoras se centra en traducir los conceptos abstractos de la arquitectura en una implementación tangible y funcional.
+
+En resumen, <mark class="hltr-yellow">la arquitectura de computadoras se refiere a la estructura y diseño conceptual de un sistema informático, mientras que la organización de computadoras se enfoca en la implementación física y práctica de esa arquitectura.</mark>
+
 ## Arquitectura de Von Neumann
 
 La arquitectura de Von Neumann es un modelo fundamental para el diseño de computadoras. Sus características principales son:
@@ -34,11 +44,11 @@ La arquitectura de Von Neumann es un modelo fundamental para el diseño de compu
 
 - **Unidad de Entrada/Salida**: Se comunica con dispositivos de entrada/salida para transferir datos entre la computadora y el mundo exterior.
 
-La arquitectura de Von Neumann permite que las instrucciones y los datos se almacenen en la misma memoria y se procesen de forma secuencial. Esto significa que las instrucciones se ejecutan una tras otra, lo que proporciona una base para el funcionamiento de las computadoras modernas.
+La arquitectura de Von Neumann permite que<mark class="hltr-yellow"> las instrucciones y los datos se almacenen en la misma memoria y se procesen de forma secuencial.</mark> Esto significa que las instrucciones se ejecutan una tras otra, lo que proporciona una base para el funcionamiento de las computadoras modernas.
 
 ## Arquitectura Harvard
 
-La arquitectura Harvard es un modelo alternativo a la arquitectura de Von Neumann. A diferencia de esta última, la arquitectura Harvard utiliza buses de datos y memoria separados para las instrucciones y los datos. Sus características principales son:
+La arquitectura Harvard es un modelo alternativo a la arquitectura de Von Neumann. A diferencia de esta última, la arquitectura Harvard <mark class="hltr-yellow">utiliza buses de datos y memoria separados para las instrucciones y los datos.</mark> Sus características principales son:
 
 - **Memoria de Programa**: Almacena las instrucciones del programa en una memoria separada llamada **Memoria de Instrucciones**. Esta memoria es de solo lectura y permite un acceso rápido y eficiente a las instrucciones.
 
@@ -54,38 +64,3 @@ La principal ventaja de la arquitectura Harvard radica en su capacidad para ejec
 
 Es importante destacar que tanto la arquitectura de Von Neumann como la arquitectura Harvard han sido ampliamente utilizadas en el diseño de computadoras y cada una tiene sus propias ventajas y desventajas. La elección entre ellas depende de los requisitos y restricciones específicas del sistema a diseñar.
 
-## Jerarquía de Memoria
-
-La jerarquía de memoria es una estructura de almacenamiento en capas utilizada en las computadoras modernas. Está diseñada para mejorar el rendimiento de acceso a los datos, proporcionando diferentes niveles de memoria con distintas velocidades y capacidades. La jerarquía de memoria típica incl
-
-uye:
-
-1. **Registros**: Son los elementos de almacenamiento más rápidos y se encuentran dentro de la CPU. Almacenan datos y operandos utilizados en las operaciones inmediatas.
-
-2. **Memoria Caché**: Es una memoria de alta velocidad que almacena copias de datos e instrucciones frecuentemente utilizadas. Existen varios niveles de caché (L1, L2, L3) con diferentes tamaños y velocidades de acceso.
-
-3. **Memoria Principal**: Es la memoria de acceso aleatorio (RAM) que hemos mencionado anteriormente. Aunque es más lenta que la caché, tiene una capacidad mayor y almacena datos e instrucciones durante la ejecución del programa.
-
-4. **Memoria Secundaria**: Incluye dispositivos de almacenamiento de datos a largo plazo, como discos duros y unidades de estado sólido (SSD). Tiene una capacidad mucho mayor que la memoria principal, pero su acceso es más lento.
-
-La jerarquía de memoria se basa en el principio de localidad, que establece que los datos accedidos recientemente tienen más probabilidades de volver a ser accedidos en un futuro cercano. Al aprovechar este principio, se pueden reducir los tiempos de acceso a los datos y mejorar el rendimiento general del sistema.
-
-## Tipos de Instrucciones
-
-Las instrucciones en una computadora pueden clasificarse en varias categorías:
-
-1. **Transferencia de Datos**: Mueven datos entre la memoria y la CPU o entre diferentes ubicaciones de memoria.
-
-2. **Operaciones Aritméticas**: Realizan operaciones matemáticas como suma, resta, multiplicación y división.
-
-3. **Operaciones Lógicas**: Realizan operaciones booleanas, como AND, OR y NOT, en bits individuales.
-
-4. **Control de Flujo**: Controlan el flujo de ejecución del programa, permitiendo bifurcaciones condicionales (if-else) y bucles (for, while).
-
-5. **Control de E/S**: Controlan las operaciones de entrada/salida entre la CPU y los dispositivos externos.
-
-Estas instrucciones se representan en lenguajes de programación mediante códigos de operación (opcode) y operandos, y son interpretadas y ejecutadas por la CPU.
-
-## Conclusiones
-
-La organización y arquitectura de computadoras es una disciplina fundamental para comprender cómo funcionan las computadoras y cómo se diseñan sus componentes. En este apunte, hemos explorado la estructura básica de una computadora, la arquitectura de Von Neumann, la jerarquía de memoria y los tipos de instrucciones. Estos conceptos sientan las bases para el diseño y la programación eficientes de sistemas informáticos.

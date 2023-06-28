@@ -6,22 +6,22 @@ banner_y: 0.444
 
 # Configuración inicial de Git 
 
-Configuración del nombre:
-```bash
-git config --global user.name "Jorge Juarez"
-```
+1. Configuración del nombre:
+	```bash
+	git config --global user.name "Jorge Juarez"
+	```
 
-Configuración del correo electrónico:
-```bash
-git config --global user.email jorgeang33@gmail.com
-```
+2. Configuración del correo electrónico:
+	```bash
+	git config --global user.email jorgeang33@gmail.com
+	```
 
-Configuración del editor de código (VS Code):
-```bash
-git config --global core.editor "code --wait"
-```
+3. Configuración del editor de código (VS Code):
+	```bash
+	git config --global core.editor "code --wait"
+	```
 
-##### Configuración de autocrlf (el formato de fin de línea):
+##### 4. Configuración de autocrlf (el formato de fin de línea):
 + Configuración en Windows:
 	```bash
 	git config --global core.autocrlf true
@@ -32,20 +32,24 @@ git config --global core.editor "code --wait"
 	git config --global core.autocrlf input
 	```
 
+5. Configurar la autenticación: Si se va a trabajar con repositorios remotos y se necesita de autenticación, se puede configurar Git para que recuerde las credenciales.
+	```bash
+	git config --global credential.helper store
+	```
+
 Confirmación de la configuración inicial:
-```bash
-git config --global -e
-```
+	```bash
+	git config --global -e
+	```
 
 Ayuda con la configuración inicial de git:
-```bash
-git config -h
-```
+	```bash
+	git config -h
+	```
 
 ## Configuración opcional del Git
 
 Configurar alias para comandos frecuentemente utilizados o para abreviar comandos largos.
-
 ```bash
 git config --global alias.st status
 ```

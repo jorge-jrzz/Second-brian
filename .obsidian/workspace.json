@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "abe3297fcab08abe",
+        "id": "13726c7ddc6742ea",
         "type": "tabs",
         "children": [
           {
-            "id": "d378d4d7976d9e0d",
+            "id": "09682288843c2316",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo de software/Git & GitHub/Configuracion.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de software/Git & GitHub/Configuracion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de software/Git & GitHub/Configuracion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Desarrollo de software/Git & GitHub/Configuracion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +148,20 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d378d4d7976d9e0d",
+  "active": "09682288843c2316",
   "lastOpenFiles": [
-    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md",
+    "Universidad/Arquitectura de computadoras/Estructura basica de un microprocesador.md",
+    "Universidad/Arquitectura de computadoras/0 - Arquitectura de computadoras.md",
+    "Universidad/Arquitectura de computadoras/Sistemas combinacionales y secuenciales.md",
+    "Universidad/Images/Arquitectura de computadoras/Diagrama ASM.png",
+    "Universidad/Images/Arquitectura de computadoras",
+    "Universidad/Arquitectura de computadoras/Organización y arquitectura.md",
+    "Universidad/0 - Universidad.md",
+    "Desarrollo de software/ONE.md",
+    "ingles.md",
+    "arqui.md",
+    "Desarrollo de software/Git & GitHub/Configuracion.md",
     "Desarrollo de software/Git & GitHub/Git cheat sheet.md",
-    "Desarrollo de software/Git & GitHub/Configuracion.md"
+    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md"
   ]
 }

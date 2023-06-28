@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#7300ff",
     "recentlyUsedIcons": [
+      "SiOracle",
       "FasGears",
       "FabJava",
       "RiToolsFill",
-      "RiCodeFill",
-      "LiBinary"
+      "RiCodeFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -72,5 +72,6 @@
   "Desarrollo de software/0 - desarrollo de software.md": "RiCodeFill",
   "Desarrollo de software/Tools.md": "RiToolsFill",
   "Desarrollo de software/JAVA": "FabJava",
-  "Desarrollo de software/Git & GitHub/Configuracion.md": "FasGears"
+  "Desarrollo de software/Git & GitHub/Configuracion.md": "FasGears",
+  "Desarrollo de software/ONE.md": "SiOracle"
 }
