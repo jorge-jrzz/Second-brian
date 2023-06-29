@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "70b6a47fbfc037ca",
+        "id": "dadfdd50f2f5182d",
         "type": "tabs",
         "children": [
           {
-            "id": "964fb0d7767512d6",
+            "id": "4480155ee2e13fe2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universidad/Arquitectura de computadoras/0 - Arquitectura de computadoras.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidad/Arquitectura de computadoras/0 - Arquitectura de computadoras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universidad/Arquitectura de computadoras/0 - Arquitectura de computadoras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Universidad/Arquitectura de computadoras/0 - Arquitectura de computadoras.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,17 +148,19 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "964fb0d7767512d6",
+  "active": "2ae4db7ddc6c8d4d",
   "lastOpenFiles": [
-    "Universidad/Arquitectura de computadoras/Lenguaje de bajo nivel.md",
+    "Universidad/0 - Universidad.md",
+    "Microprocesador.md",
+    "Universidad/Proyecto de ingenieria I/Descomposición modular.md",
     "Universidad/Arquitectura de computadoras/0 - Arquitectura de computadoras.md",
+    "Universidad/Arquitectura de computadoras/Lenguaje de bajo nivel.md",
     "Universidad/Arquitectura de computadoras/Sistemas combinacionales y secuenciales.md",
     "Universidad/Arquitectura de computadoras/Organización y arquitectura.md",
     "Universidad/Arquitectura de computadoras/Estructura basica de un microprocesador.md",
     "Universidad/Images/Arquitectura de computadoras/Datapath.jpeg",
     "Universidad/Images/Arquitectura de computadoras/Unidad_Registros.jpeg",
     "Universidad/Images/Arquitectura de computadoras/microprocesador.jpeg",
-    "Microprocesador.md",
     "Universidad/Images/Arquitectura de computadoras/Unidad_Funcional.jpeg",
     "Universidad/Images/Arquitectura de computadoras/UF_UR.jpeg",
     "Universidad/Images/Arquitectura de computadoras/ALU.jpeg",
@@ -174,7 +168,6 @@
     "2023-06-28.md",
     "Universidad/Images/Arquitectura de computadoras/Diagrama ASM.png",
     "Universidad/Images/Arquitectura de computadoras",
-    "Universidad/0 - Universidad.md",
     "Desarrollo de software/ONE.md",
     "ingles.md",
     "arqui.md",
