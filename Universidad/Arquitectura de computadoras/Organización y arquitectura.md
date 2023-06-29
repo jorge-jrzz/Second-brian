@@ -30,7 +30,7 @@ La arquitectura de computadoras se refiere al diseño conceptual y estructural d
 #### Organización de computadoras:
 La organización de computadoras se refiere a la forma en que se implementa la arquitectura de un sistema informático. Se ocupa de los detalles prácticos de cómo se construye y se interconecta físicamente el hardware para ejecutar las operaciones definidas en la arquitectura. Esto incluye aspectos como la selección de componentes específicos, la elección de tecnologías de interconexión, el diseño de circuitos electrónicos, el esquema de direccionamiento de memoria, la gestión de interrupciones y otros aspectos relacionados con la implementación física del sistema informático. La organización de computadoras se centra en traducir los conceptos abstractos de la arquitectura en una implementación tangible y funcional.
 
-En resumen, <mark class="hltr-yellow">la arquitectura de computadoras se refiere a la estructura y diseño conceptual de un sistema informático, mientras que la organización de computadoras se enfoca en la implementación física y práctica de esa arquitectura.</mark>
+En resumen, ==la arquitectura de computadoras se refiere a la estructura y diseño conceptual de un sistema informático, mientras que la organización de computadoras se enfoca en la implementación física y práctica de esa arquitectura.==
 
 ## Arquitectura de Von Neumann
 
