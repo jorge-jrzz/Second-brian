@@ -168,7 +168,7 @@ enumerate(iterable, start=0)
 ```
 
 Donde **`iterable`** es la secuencia que se va a iterar y **`start`** es el índice inicial que se va a utilizar. Por defecto, el índice inicial es 0.
-Más informacion sobre los iterables en la seccion \"for-else" de la siguiente pagina: [[Control de flujo]].
+Más informacion sobre los iterables en la seccion \"for-else" de la siguiente pagina: [[Desarrollo de software/Python/Control de flujo]].
 Veamos un ejemplo para entender mejor cómo funciona esta función:
 
 ```python

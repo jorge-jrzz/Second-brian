@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#7300ff",
     "recentlyUsedIcons": [
-      "TiVariable",
-      "FabJava",
-      "SiEclipseide",
-      "FasFile",
-      "TiWashMachine"
+      "LiCircleDot",
+      "SiExercism",
+      "TiEaseOutControlPoint",
+      "SiElsevier",
+      "TiAB"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -77,5 +77,9 @@
   "Desarrollo de software/Java/Eclipse.md": "SiEclipseide",
   "Desarrollo de software/Java/JVM.md": "TiWashMachine",
   "Desarrollo de software/Java/Primer programa.md": "FasFile",
-  "Desarrollo de software/Java/Tipos y variables.md": "TiVariable"
+  "Desarrollo de software/Java/Tipos y variables.md": "TiVariable",
+  "Desarrollo de software/Java/Caracteres.md": "TiAB",
+  "Desarrollo de software/Java/Condicionales.md": "TiEaseOutControlPoint",
+  "Desarrollo de software/Java/Ejercicio condicionales.md": "SiExercism",
+  "Desarrollo de software/Java/Control de flujo.md": "LiCircleDot"
 }

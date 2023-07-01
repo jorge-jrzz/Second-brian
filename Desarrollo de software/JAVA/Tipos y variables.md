@@ -121,3 +121,59 @@ Funcionamiento del cast implícito y explícito:
 |long|(byte)|(short)|(char)|(int)|----|_Impl._|_Impl._|
 |float|(byte)|(short)|(char)|(int)|(long)|----|_Impl._|
 |double|(byte)|(short)|(char)|(int)|(long)|(float)|----|
+
+# Scope e inicialización
+
+El scope (ámbito) y la inicialización son conceptos importantes relacionados con las variables en Java. 
+
+- **Scope (Ámbito)**: El scope se refiere a la visibilidad o alcance de una variable en un programa. Determina en qué partes del código una variable es accesible y puede ser utilizada. En Java, existen diferentes niveles de scope, incluyendo:
+
+  - **Scope de bloque**: Una variable declarada dentro de un bloque de código, como un método, una estructura condicional (`if`, `while`, `for`), o un bloque de código definido entre llaves `{}`, tiene un scope limitado a ese bloque y sus bloques internos. La variable solo es visible y accesible dentro del bloque en el que se declaró. Ejemplo:
+
+    ```java
+    public void ejemploScope() {
+        int x = 10; // Variable con scope de bloque
+
+        if (x > 5) {
+            int y = 20; // Otra variable con scope de bloque dentro del if
+            System.out.println(x + y); // Acceso válido a x y y dentro del if
+        }
+
+        System.out.println(x); // Acceso válido a x fuera del if
+        // System.out.println(y); // Error: y no es accesible aquí
+    }
+    ```
+
+  - **Scope de clase**: Una variable declarada en una clase, pero fuera de cualquier método o bloque de código, tiene un scope de clase. Se puede acceder a esa variable desde cualquier parte de la clase. Ejemplo:
+
+    ```java
+    public class EjemploScope {
+        private int x; // Variable con scope de clase
+
+        public void setX(int valor) {
+            x = valor; // Acceso válido a x dentro de un método de la clase
+        }
+
+        public void imprimirX() {
+            System.out.println(x); // Acceso válido a x desde otro método de la clase
+        }
+    }
+    ```
+
+- **Inicialización de variables**: La inicialización de una variable implica asignarle un valor inicial antes de utilizarla. En Java, las variables locales (variables dentro de un método o bloque de código) no se inicializan automáticamente y deben recibir un valor antes de utilizarse. Las variables de instancia (variables de clase) se inicializan automáticamente con un valor predeterminado si no se les asigna un valor explícitamente. Ejemplo:
+
+  ```java
+  public void ejemploInicializacion() {
+      int x; // Variable sin inicializar, no se puede usar hasta recibir un valor
+
+      int y = 10; // Variable inicializada con un valor
+
+      System.out.println(y); // Acceso válido a y
+
+      // System.out.println(x); // Error: x no está inicializada
+  }
+  ```
+
+  En este ejemplo, `y` está inicializada con el valor `10`, por lo que puede ser utilizada sin problemas. Sin embargo, `x` no está inicializada y su uso antes de recibir un valor provocaría un error de compilación.
+
+Es importante entender el scope y asegurarse de que las variables sean declaradas e inicializadas adecuadamente en el lugar correcto para garantizar su correcto uso y evitar errores.

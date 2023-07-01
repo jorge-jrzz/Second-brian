@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64ee66fd00351286",
+        "id": "84ce21f5cf592c63",
         "type": "tabs",
         "children": [
           {
-            "id": "6fe3afb1af944339",
+            "id": "15b9f0b420e3ff99",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 218.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c2c6a8f1122a136",
@@ -128,50 +129,55 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "dd584c6416f350d2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6fe3afb1af944339",
+  "active": "15b9f0b420e3ff99",
   "lastOpenFiles": [
+    "Desarrollo de software/Java/Control de flujo.md",
     "Desarrollo de software/Java/0 - Java.md",
+    "Desarrollo de software/Java/Condicionales.md",
+    "Desarrollo de software/Java/Ejercicio condicionales.md",
     "Desarrollo de software/Java/Tipos y variables.md",
-    "Desarrollo de software/Images/Java/tipos_datos.png",
-    "Desarrollo de software/Java/Eclipse.md",
+    "Desarrollo de software/Java/Caracteres.md",
+    "Desarrollo de software/Images/Java/stack_heap.png",
     "Desarrollo de software/Java/Primer programa.md",
-    "Desarrollo de software/JAVA/Eclipse.md",
+    "Desarrollo de software/Tools.md",
     "Desarrollo de software/Java/JVM.md",
-    "Desarrollo de software/Java",
-    "Desarrollo de software/JAVA/0 - Java.md",
-    "Desarrollo de software/JAVA/Primer programa.md",
+    "Desarrollo de software/Java/Eclipse.md",
     "Gallery/Java-banner.webp",
-    "Java-banner.webp",
-    "Java-banner.webp.crdownload",
-    "Desarrollo de software/Images/Java/JDK.png",
+    "Desarrollo de software/Images/Java/tipos_datos.png",
     "Desarrollo de software/Images/Java/Lenguajes_JVM.png",
-    "Desarrollo de software/JAVA/JVM.md",
-    "Desarrollo de software/Images/Java/Example_JVM.png",
-    "Desarrollo de software/Python/Introducción.md",
     "Desarrollo de software/Images/Java/JVM.png",
+    "Desarrollo de software/Images/Java/JDK.png",
+    "Desarrollo de software/Images/Java/Example_JVM.png",
     "Desarrollo de software/Images/Java",
-    "Desarrollo de software/Images/Nueva carpeta",
-    "Desarrollo de software/Python/0 - Python.md",
     "Universidad/0 - Universidad.md",
     "Microprocesador.md",
     "Universidad/Proyecto de ingenieria I/Descomposición modular.md",
@@ -189,6 +195,7 @@
     "ingles.md",
     "arqui.md",
     "Desarrollo de software/Git & GitHub/Configuracion.md",
-    "Desarrollo de software/Git & GitHub/Git cheat sheet.md"
+    "Desarrollo de software/Git & GitHub/Git cheat sheet.md",
+    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md"
   ]
 }
