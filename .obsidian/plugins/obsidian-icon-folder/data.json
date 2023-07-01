@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#7300ff",
     "recentlyUsedIcons": [
-      "SiOracle",
-      "FasGears",
+      "TiVariable",
       "FabJava",
-      "RiToolsFill",
-      "RiCodeFill"
+      "SiEclipseide",
+      "FasFile",
+      "TiWashMachine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -71,7 +71,11 @@
   "Universidad/Proyecto de ingenieria I/Metricas de Software.md": "FasMoneyBill1",
   "Desarrollo de software/0 - desarrollo de software.md": "RiCodeFill",
   "Desarrollo de software/Tools.md": "RiToolsFill",
-  "Desarrollo de software/JAVA": "FabJava",
   "Desarrollo de software/Git & GitHub/Configuracion.md": "FasGears",
-  "Desarrollo de software/ONE.md": "SiOracle"
+  "Desarrollo de software/ONE.md": "SiOracle",
+  "Desarrollo de software/Java": "FabJava",
+  "Desarrollo de software/Java/Eclipse.md": "SiEclipseide",
+  "Desarrollo de software/Java/JVM.md": "TiWashMachine",
+  "Desarrollo de software/Java/Primer programa.md": "FasFile",
+  "Desarrollo de software/Java/Tipos y variables.md": "TiVariable"
 }

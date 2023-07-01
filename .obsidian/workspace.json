@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dadfdd50f2f5182d",
+        "id": "64ee66fd00351286",
         "type": "tabs",
         "children": [
           {
-            "id": "4480155ee2e13fe2",
+            "id": "6fe3afb1af944339",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,8 +148,30 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4480155ee2e13fe2",
+  "active": "6fe3afb1af944339",
   "lastOpenFiles": [
+    "Desarrollo de software/Java/0 - Java.md",
+    "Desarrollo de software/Java/Tipos y variables.md",
+    "Desarrollo de software/Images/Java/tipos_datos.png",
+    "Desarrollo de software/Java/Eclipse.md",
+    "Desarrollo de software/Java/Primer programa.md",
+    "Desarrollo de software/JAVA/Eclipse.md",
+    "Desarrollo de software/Java/JVM.md",
+    "Desarrollo de software/Java",
+    "Desarrollo de software/JAVA/0 - Java.md",
+    "Desarrollo de software/JAVA/Primer programa.md",
+    "Gallery/Java-banner.webp",
+    "Java-banner.webp",
+    "Java-banner.webp.crdownload",
+    "Desarrollo de software/Images/Java/JDK.png",
+    "Desarrollo de software/Images/Java/Lenguajes_JVM.png",
+    "Desarrollo de software/JAVA/JVM.md",
+    "Desarrollo de software/Images/Java/Example_JVM.png",
+    "Desarrollo de software/Python/Introducción.md",
+    "Desarrollo de software/Images/Java/JVM.png",
+    "Desarrollo de software/Images/Java",
+    "Desarrollo de software/Images/Nueva carpeta",
+    "Desarrollo de software/Python/0 - Python.md",
     "Universidad/0 - Universidad.md",
     "Microprocesador.md",
     "Universidad/Proyecto de ingenieria I/Descomposición modular.md",
@@ -161,18 +183,12 @@
     "Universidad/Images/Arquitectura de computadoras/Datapath.jpeg",
     "Universidad/Images/Arquitectura de computadoras/Unidad_Registros.jpeg",
     "Universidad/Images/Arquitectura de computadoras/microprocesador.jpeg",
-    "Universidad/Images/Arquitectura de computadoras/Unidad_Funcional.jpeg",
-    "Universidad/Images/Arquitectura de computadoras/UF_UR.jpeg",
-    "Universidad/Images/Arquitectura de computadoras/ALU.jpeg",
-    "Universidad/Images/Arquitectura de computadoras/ALU.png",
     "2023-06-28.md",
-    "Universidad/Images/Arquitectura de computadoras/Diagrama ASM.png",
     "Universidad/Images/Arquitectura de computadoras",
     "Desarrollo de software/ONE.md",
     "ingles.md",
     "arqui.md",
     "Desarrollo de software/Git & GitHub/Configuracion.md",
-    "Desarrollo de software/Git & GitHub/Git cheat sheet.md",
-    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md"
+    "Desarrollo de software/Git & GitHub/Git cheat sheet.md"
   ]
 }
