@@ -92,3 +92,5 @@ Los bucles anidados son útiles cuando se necesitan ejecutar iteraciones en múl
 
 - Clarice tiene dudas sobre cómo funciona el `break` cuando se usa dentro de bucles anidados. ==Describe exactamente cómo funciona este comando en estas situaciones.==
 	Para la ejecución del bucle más interno que contiene el comando `break` y continúa ejecutando los bucles más externos. El `descanso` solo interrumpirá el ciclo de repetición más interno que lo contiene.
+---
+**Ejercicio sobre el uso de condicionales en: [[Ejercicios]]**

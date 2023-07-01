@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#7300ff",
     "recentlyUsedIcons": [
+      "FabFontAwesome",
+      "SiTestcafe",
       "LiCircleDot",
       "SiExercism",
-      "TiEaseOutControlPoint",
-      "SiElsevier",
-      "TiAB"
+      "TiEaseOutControlPoint"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -80,6 +80,7 @@
   "Desarrollo de software/Java/Tipos y variables.md": "TiVariable",
   "Desarrollo de software/Java/Caracteres.md": "TiAB",
   "Desarrollo de software/Java/Condicionales.md": "TiEaseOutControlPoint",
-  "Desarrollo de software/Java/Ejercicio condicionales.md": "SiExercism",
-  "Desarrollo de software/Java/Control de flujo.md": "LiCircleDot"
+  "Desarrollo de software/Java/Control de flujo.md": "LiCircleDot",
+  "Desarrollo de software/Java/Ejercicios.md": "SiTestcafe",
+  "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md": "FabFontAwesome"
 }

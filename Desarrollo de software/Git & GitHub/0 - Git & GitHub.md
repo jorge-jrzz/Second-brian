@@ -6,3 +6,4 @@
 Git es el sistema de control de versiones distribuido gratuito y de código abierto que es responsable de todo lo relacionado con GitHub. que sucede localmente en tu ordenador.
 
 [Instalación](https://git-scm.com/)
+[[Nombres de los repositorios]]

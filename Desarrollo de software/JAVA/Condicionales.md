@@ -242,6 +242,5 @@ En resumen, el switch case hace que el código sea más fácil de entender y má
 	```
 	==¿Cuál será el resultado de la compilación / ejecución?==
 	El código ni siquiera se compila, porque fuera del bloque `if` / `else` la variable `salario` ya no existe. La variable de salario solo es visible dentro del bloque `if` / `else`.
-
-
-###### Ejercicio sobre el uso de condicionales: [[Ejercicio condicionales]]
+---
+**Ejercicio sobre el uso de condicionales en: [[Ejercicios]]**

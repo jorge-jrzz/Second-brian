@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84ce21f5cf592c63",
+        "id": "40926a48b9430813",
         "type": "tabs",
         "children": [
           {
-            "id": "15b9f0b420e3ff99",
+            "id": "c89670fede874a96",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5,
-    "collapsed": true
+    "width": 218.5
   },
   "right": {
     "id": "5c2c6a8f1122a136",
@@ -82,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md"
+              }
             }
           },
           {
@@ -139,12 +142,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,19 +160,21 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "15b9f0b420e3ff99",
+  "active": "fb11f2cb5e5badef",
   "lastOpenFiles": [
+    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md",
+    "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md",
+    "Desarrollo de software/Java/Ejercicios.md",
     "Desarrollo de software/Java/Control de flujo.md",
-    "Desarrollo de software/Java/0 - Java.md",
     "Desarrollo de software/Java/Condicionales.md",
-    "Desarrollo de software/Java/Ejercicio condicionales.md",
-    "Desarrollo de software/Java/Tipos y variables.md",
+    "Desarrollo de software/Java/0 - Java.md",
     "Desarrollo de software/Java/Caracteres.md",
-    "Desarrollo de software/Images/Java/stack_heap.png",
-    "Desarrollo de software/Java/Primer programa.md",
-    "Desarrollo de software/Tools.md",
-    "Desarrollo de software/Java/JVM.md",
+    "Desarrollo de software/Java/Tipos y variables.md",
     "Desarrollo de software/Java/Eclipse.md",
+    "Desarrollo de software/Java/Primer programa.md",
+    "Desarrollo de software/Java/JVM.md",
+    "Desarrollo de software/Images/Java/stack_heap.png",
+    "Desarrollo de software/Tools.md",
     "Gallery/Java-banner.webp",
     "Desarrollo de software/Images/Java/tipos_datos.png",
     "Desarrollo de software/Images/Java/Lenguajes_JVM.png",
@@ -195,7 +199,6 @@
     "ingles.md",
     "arqui.md",
     "Desarrollo de software/Git & GitHub/Configuracion.md",
-    "Desarrollo de software/Git & GitHub/Git cheat sheet.md",
-    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md"
+    "Desarrollo de software/Git & GitHub/Git cheat sheet.md"
   ]
 }
