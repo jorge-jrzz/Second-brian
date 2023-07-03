@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#7300ff",
     "recentlyUsedIcons": [
+      "FarObjectGroup",
       "FabFontAwesome",
       "SiTestcafe",
       "LiCircleDot",
-      "SiExercism",
-      "TiEaseOutControlPoint"
+      "SiExercism"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -81,6 +81,7 @@
   "Desarrollo de software/Java/Caracteres.md": "TiAB",
   "Desarrollo de software/Java/Condicionales.md": "TiEaseOutControlPoint",
   "Desarrollo de software/Java/Control de flujo.md": "LiCircleDot",
-  "Desarrollo de software/Java/Ejercicios.md": "SiTestcafe",
-  "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md": "FabFontAwesome"
+  "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md": "FabFontAwesome",
+  "Desarrollo de software/Java/POO.md": "FarObjectGroup",
+  "Desarrollo de software/Java/Ejercicios 1.md": "SiTestcafe"
 }

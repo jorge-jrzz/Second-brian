@@ -11,8 +11,12 @@
             "id": "c89670fede874a96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo de software/Java/POO.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md",
+                "file": "Desarrollo de software/Java/POO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md",
+                "file": "Desarrollo de software/Java/POO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md"
+                "file": "Desarrollo de software/Java/POO.md"
               }
             }
           },
@@ -160,17 +164,18 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "fb11f2cb5e5badef",
+  "active": "c89670fede874a96",
   "lastOpenFiles": [
-    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md",
-    "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md",
-    "Desarrollo de software/Java/Ejercicios.md",
-    "Desarrollo de software/Java/Control de flujo.md",
-    "Desarrollo de software/Java/Condicionales.md",
     "Desarrollo de software/Java/0 - Java.md",
+    "Desarrollo de software/Java/Ejercicios 1.md",
+    "Desarrollo de software/Java/POO.md",
+    "Desarrollo de software/Java/Eclipse.md",
+    "Desarrollo de software/Java/Control de flujo.md",
+    "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md",
+    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md",
+    "Desarrollo de software/Java/Condicionales.md",
     "Desarrollo de software/Java/Caracteres.md",
     "Desarrollo de software/Java/Tipos y variables.md",
-    "Desarrollo de software/Java/Eclipse.md",
     "Desarrollo de software/Java/Primer programa.md",
     "Desarrollo de software/Java/JVM.md",
     "Desarrollo de software/Images/Java/stack_heap.png",
@@ -198,7 +203,6 @@
     "Desarrollo de software/ONE.md",
     "ingles.md",
     "arqui.md",
-    "Desarrollo de software/Git & GitHub/Configuracion.md",
-    "Desarrollo de software/Git & GitHub/Git cheat sheet.md"
+    "Desarrollo de software/Git & GitHub/Configuracion.md"
   ]
 }
