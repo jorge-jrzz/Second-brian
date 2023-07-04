@@ -38,14 +38,14 @@ banner_y: 0.444
 	```
 
 Confirmación de la configuración inicial:
-	```bash
-	git config --global -e
-	```
+```bash
+git config --global -e
+```
 
 Ayuda con la configuración inicial de git:
-	```bash
-	git config -h
-	```
+```bash
+git config -h
+```
 
 ## Configuración opcional del Git
 
@@ -55,3 +55,13 @@ git config --global alias.st status
 ```
 
 Así, podrías usar `git st` en lugar de `git status`.
+
+Tener un `.gitignore` global
+```bash
+git config --global core.excludesfile [file]
+```
+
+Se utiliza para especificar un archivo global de exclusión en Git. Este archivo contiene patrones de nombres de archivos que Git debe ignorar de manera predeterminada en todos los repositorios de tu sistema.
+
+Es importante destacar que `[file]` en el comando representa la ruta y el nombre de archivo que deseas utilizar como archivo global de exclusión. Puedes reemplazar `[file]` con la ruta y el nombre de archivo que desees, por ejemplo: `~/.gitignore_global`.
+Recuerda que una vez configurado el archivo global de exclusión, debes asegurarte de que los archivos y patrones que deseas excluir estén especificados correctamente en ese archivo.

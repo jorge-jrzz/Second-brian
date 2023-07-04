@@ -1,3 +1,7 @@
+---
+{}
+---
+
 ### ¿Qué es un prototipo?
 
 Un prototipo es un modelo temprano o una versión inicial de un producto o sistema, que se utiliza para probar y evaluar su diseño, funcionalidad y rendimiento antes de su producción o lanzamiento completo.

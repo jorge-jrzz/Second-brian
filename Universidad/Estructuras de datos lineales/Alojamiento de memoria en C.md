@@ -31,7 +31,7 @@ Los apuntadores tienen ciertas reglas:
 - *El * antes de la variable puntero nos dice “el contenido de”*
 - El usar un puntero para obtener al valor al que apunta se conoce como “Indirección el puntero” o “desreferenciar el puntero”.
 - Existe el puntero “NULL” (nulo) que no apunta a ninguna parte. Sirve para identificar una
-dirección no valida. Se puede definir Null como: #define NULL o (#undef NULL).
+dirección no valida. Se puede definir Null como: \#define NULL o (#undef NULL).
 - Para el punto anterior se ocupan las librerías: stdio.h, stdlib.h, string.h y stddef.h
 - Un puntero genérico es laque al que no se le asigna un tipo de dato especifico. void
 Por ejemplo:

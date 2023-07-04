@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "40926a48b9430813",
+        "id": "6e7919faec7fcee5",
         "type": "tabs",
         "children": [
           {
-            "id": "c89670fede874a96",
+            "id": "f439a285f5e3db2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo de software/Java/POO.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#define",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,12 +60,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "b8eb86a91373c304",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 239.5
   },
   "right": {
     "id": "5c2c6a8f1122a136",
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de software/Java/POO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de software/Java/POO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Desarrollo de software/Java/POO.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,26 +160,44 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "canvas:Create new canvas": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c89670fede874a96",
+  "active": "f439a285f5e3db2b",
   "lastOpenFiles": [
-    "Desarrollo de software/Java/0 - Java.md",
-    "Desarrollo de software/Java/Ejercicios 1.md",
     "Desarrollo de software/Java/POO.md",
+    "Desarrollo de software/Java/POO.html",
+    "Universidad/Estructuras de datos lineales/Alojamiento de memoria en C.md",
+    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md",
+    "Desarrollo de software/Java/0 - Java.md",
+    "Desarrollo de software/Python/Introducción.md",
+    "Desarrollo de software/Python/0 - Python.md",
+    "Desarrollo de software/0 - desarrollo de software.md",
+    "Desarrollo de software/Java/Caracteres.md",
+    "Universidad/Arquitectura de computadoras/Estructura basica de un microprocesador.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Universidad/Proyecto de ingenieria I/Prototipos.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Universidad/0 - Universidad.md",
+    "Projects - Demo Project",
+    "Desarrollo de software/Images/Java/Java_Cheat_Sheet.pdf",
+    "Desarrollo de software/Images/Java/Instancias.png",
+    "Java_Cheat_Sheet.pdf",
+    "Unconfirmed 666795.crdownload",
+    "Instancias.png",
+    "Desarrollo de software/Git & GitHub/Git cheat sheet.md",
+    "Desarrollo de software/Git & GitHub/Configuracion.md",
+    "Desarrollo de software/Java/Ejercicios 1.md",
     "Desarrollo de software/Java/Eclipse.md",
     "Desarrollo de software/Java/Control de flujo.md",
     "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md",
-    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md",
     "Desarrollo de software/Java/Condicionales.md",
-    "Desarrollo de software/Java/Caracteres.md",
     "Desarrollo de software/Java/Tipos y variables.md",
     "Desarrollo de software/Java/Primer programa.md",
-    "Desarrollo de software/Java/JVM.md",
     "Desarrollo de software/Images/Java/stack_heap.png",
-    "Desarrollo de software/Tools.md",
     "Gallery/Java-banner.webp",
     "Desarrollo de software/Images/Java/tipos_datos.png",
     "Desarrollo de software/Images/Java/Lenguajes_JVM.png",
@@ -187,22 +205,7 @@
     "Desarrollo de software/Images/Java/JDK.png",
     "Desarrollo de software/Images/Java/Example_JVM.png",
     "Desarrollo de software/Images/Java",
-    "Universidad/0 - Universidad.md",
-    "Microprocesador.md",
-    "Universidad/Proyecto de ingenieria I/Descomposición modular.md",
-    "Universidad/Arquitectura de computadoras/0 - Arquitectura de computadoras.md",
-    "Universidad/Arquitectura de computadoras/Lenguaje de bajo nivel.md",
-    "Universidad/Arquitectura de computadoras/Sistemas combinacionales y secuenciales.md",
-    "Universidad/Arquitectura de computadoras/Organización y arquitectura.md",
-    "Universidad/Arquitectura de computadoras/Estructura basica de un microprocesador.md",
     "Universidad/Images/Arquitectura de computadoras/Datapath.jpeg",
-    "Universidad/Images/Arquitectura de computadoras/Unidad_Registros.jpeg",
-    "Universidad/Images/Arquitectura de computadoras/microprocesador.jpeg",
-    "2023-06-28.md",
-    "Universidad/Images/Arquitectura de computadoras",
-    "Desarrollo de software/ONE.md",
-    "ingles.md",
-    "arqui.md",
-    "Desarrollo de software/Git & GitHub/Configuracion.md"
+    "Universidad/Images/Arquitectura de computadoras"
   ]
 }
