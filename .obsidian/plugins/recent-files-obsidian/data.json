@@ -5,16 +5,16 @@
       "path": "Desarrollo de software/Java/POO.md"
     },
     {
-      "basename": "Alojamiento de memoria en C",
-      "path": "Universidad/Estructuras de datos lineales/Alojamiento de memoria en C.md"
+      "basename": "0 - Java",
+      "path": "Desarrollo de software/Java/0 - Java.md"
     },
     {
       "basename": "0 - Git & GitHub",
       "path": "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md"
     },
     {
-      "basename": "0 - Java",
-      "path": "Desarrollo de software/Java/0 - Java.md"
+      "basename": "Alojamiento de memoria en C",
+      "path": "Universidad/Estructuras de datos lineales/Alojamiento de memoria en C.md"
     }
   ],
   "omittedPaths": [],

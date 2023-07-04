@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e7919faec7fcee5",
+        "id": "ad3bf551aa814d4c",
         "type": "tabs",
         "children": [
           {
-            "id": "f439a285f5e3db2b",
+            "id": "5f0c99434a179843",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,13 +163,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f439a285f5e3db2b",
+  "active": "2ae4db7ddc6c8d4d",
   "lastOpenFiles": [
     "Desarrollo de software/Java/POO.md",
+    "Desarrollo de software/Java/0 - Java.md",
+    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md",
+    "Desarrollo de software/Git & GitHub/~$0 - Git & GitHub.pptx",
+    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.pptx",
     "Desarrollo de software/Java/POO.html",
     "Universidad/Estructuras de datos lineales/Alojamiento de memoria en C.md",
-    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md",
-    "Desarrollo de software/Java/0 - Java.md",
     "Desarrollo de software/Python/Introducción.md",
     "Desarrollo de software/Python/0 - Python.md",
     "Desarrollo de software/0 - desarrollo de software.md",
