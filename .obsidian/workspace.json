@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "95c819a4ef7e82c7",
+        "id": "3eea9d51d0cf18a7",
         "type": "tabs",
         "children": [
           {
-            "id": "c7f89bf26d4046bf",
+            "id": "e19a62b61d1de5e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo de software/Java/0 - Java.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de software/Java/0 - Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de software/Java/0 - Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Desarrollo de software/Java/0 - Java.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,11 +155,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7f89bf26d4046bf",
+  "active": "fb11f2cb5e5badef",
   "lastOpenFiles": [
+    "Santi.md",
+    "Desarrollo de software/Java/Metodos.md",
     "Desarrollo de software/Java/POO.md",
-    "Desarrollo de software/Java/Primer programa.md",
     "Desarrollo de software/Java/0 - Java.md",
+    "Desarrollo de software/Java/0 - Java.docx",
+    "Desarrollo de software/Java/Primer programa.md",
     "Desarrollo de software/Java/Control de flujo.md",
     "Desarrollo de software/Java/Caracteres.md",
     "Desarrollo de software/Java/Eclipse.md",
@@ -202,7 +196,6 @@
     "ingles.md",
     "Expectativas con el programa ONE.md",
     "arqui.md",
-    "Desarrollo de software/Git & GitHub/Configuracion.md",
-    "Desarrollo de software/Git & GitHub/Git cheat sheet.md"
+    "Desarrollo de software/Git & GitHub/Configuracion.md"
   ]
 }
