@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ad3bf551aa814d4c",
+        "id": "95c819a4ef7e82c7",
         "type": "tabs",
         "children": [
           {
-            "id": "5f0c99434a179843",
+            "id": "c7f89bf26d4046bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo de software/Java/0 - Java.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#define",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +66,7 @@
             }
           },
           {
-            "id": "b8eb86a91373c304",
+            "id": "7238a1f4b79884a3",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 300
   },
   "right": {
     "id": "5c2c6a8f1122a136",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desarrollo de software/Java/0 - Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desarrollo de software/Java/0 - Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,22 +132,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Desarrollo de software/Java/0 - Java.md"
+              }
             }
           },
           {
-            "id": "2ae4db7ddc6c8d4d",
+            "id": "4d1fd30d658c409b",
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "dd584c6416f350d2",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -150,64 +150,59 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 322.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ae4db7ddc6c8d4d",
+  "active": "c7f89bf26d4046bf",
   "lastOpenFiles": [
     "Desarrollo de software/Java/POO.md",
-    "Desarrollo de software/Java/0 - Java.md",
-    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md",
-    "Desarrollo de software/Git & GitHub/~$0 - Git & GitHub.pptx",
-    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.pptx",
-    "Desarrollo de software/Java/POO.html",
-    "Universidad/Estructuras de datos lineales/Alojamiento de memoria en C.md",
-    "Desarrollo de software/Python/Introducción.md",
-    "Desarrollo de software/Python/0 - Python.md",
-    "Desarrollo de software/0 - desarrollo de software.md",
-    "Desarrollo de software/Java/Caracteres.md",
-    "Universidad/Arquitectura de computadoras/Estructura basica de un microprocesador.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Universidad/Proyecto de ingenieria I/Prototipos.md",
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "Universidad/0 - Universidad.md",
-    "Projects - Demo Project",
-    "Desarrollo de software/Images/Java/Java_Cheat_Sheet.pdf",
-    "Desarrollo de software/Images/Java/Instancias.png",
-    "Java_Cheat_Sheet.pdf",
-    "Unconfirmed 666795.crdownload",
-    "Instancias.png",
-    "Desarrollo de software/Git & GitHub/Git cheat sheet.md",
-    "Desarrollo de software/Git & GitHub/Configuracion.md",
-    "Desarrollo de software/Java/Ejercicios 1.md",
-    "Desarrollo de software/Java/Eclipse.md",
-    "Desarrollo de software/Java/Control de flujo.md",
-    "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md",
-    "Desarrollo de software/Java/Condicionales.md",
-    "Desarrollo de software/Java/Tipos y variables.md",
     "Desarrollo de software/Java/Primer programa.md",
-    "Desarrollo de software/Images/Java/stack_heap.png",
-    "Gallery/Java-banner.webp",
-    "Desarrollo de software/Images/Java/tipos_datos.png",
-    "Desarrollo de software/Images/Java/Lenguajes_JVM.png",
-    "Desarrollo de software/Images/Java/JVM.png",
-    "Desarrollo de software/Images/Java/JDK.png",
-    "Desarrollo de software/Images/Java/Example_JVM.png",
-    "Desarrollo de software/Images/Java",
+    "Desarrollo de software/Java/0 - Java.md",
+    "Desarrollo de software/Java/Control de flujo.md",
+    "Desarrollo de software/Java/Caracteres.md",
+    "Desarrollo de software/Java/Eclipse.md",
+    "Desarrollo de software/Desarrollo de software.md",
+    "Graficas.md",
+    "Desarrollo de software/Java/Tipos y variables.md",
+    "Desarrollo de software/Python/Introducción.md",
+    "Desarrollo de software/Java/JVM.md",
+    "Desarrollo de software/Git & GitHub/What is Git.md",
+    "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md",
+    "Desarrollo de software/JavaScript/0 - JavaScript.md",
+    "Desarrollo de software/ONE.md",
+    "Desarrollo de software/Java/Condicionales.md",
+    "Universidad/Images/Arquitectura de computadoras/microprocesador.jpeg",
+    "Universidad/Images/Arquitectura de computadoras/Unidad_Registros.jpeg",
+    "Universidad/Images/Arquitectura de computadoras/Unidad_Funcional.jpeg",
+    "Universidad/Images/Arquitectura de computadoras/Diagrama ASM.png",
     "Universidad/Images/Arquitectura de computadoras/Datapath.jpeg",
-    "Universidad/Images/Arquitectura de computadoras"
+    "Universidad/Images/Arquitectura de computadoras/ALU.jpeg",
+    "Universidad/Images/Arquitectura de computadoras",
+    "Gallery/Java-banner.webp",
+    "Desarrollo de software/Java/Ejercicios 1.md",
+    "Desarrollo de software/Images/Java/tipos_datos.png",
+    "Desarrollo de software/Images/Java/stack_heap.png",
+    "Desarrollo de software/Images/Java/Lenguajes_JVM.png",
+    "Desarrollo de software/Images/Java/Java_Cheat_Sheet.pdf",
+    "Desarrollo de software/Images/Java",
+    "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md",
+    "Desarrollo de software/Tools.md",
+    "Desarrollo de software/Q&A.md",
+    "ingles.md",
+    "Expectativas con el programa ONE.md",
+    "arqui.md",
+    "Desarrollo de software/Git & GitHub/Configuracion.md",
+    "Desarrollo de software/Git & GitHub/Git cheat sheet.md"
   ]
 }
