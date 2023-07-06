@@ -200,4 +200,4 @@ _ = resultado
 
 En resumen, la variable **`_`** se utiliza para indicar que un valor no se va a utilizar más adelante en el código. Es una convención de Python y no afecta el comportamiento del programa.
 
-Para saber mas sobre estructuras de control de flujo como lo es la estructura `for` visitar la siguiente pagina: [[Desarrollo de software/Python/Control de flujo]].
+Para saber mas sobre estructuras de control de flujo como lo es la estructura `for` visitar la siguiente pagina: [[Control de flujo en py]].

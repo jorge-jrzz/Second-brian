@@ -2,7 +2,7 @@
 Temario:
 - [[Introducción]]
 - [[Tipos basicos]]
-- [[Desarrollo de software/Python/Control de flujo]]
+- [[Control de flujo en py]]
 - [[Funciones]]
 - [[Tipos avanzados]]
 - [[Clases]]

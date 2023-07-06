@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "JVM",
-      "path": "Desarrollo de software/Java/JVM.md"
+      "basename": "Clases",
+      "path": "Desarrollo de software/Python/Clases.md"
+    },
+    {
+      "basename": "0 - Python",
+      "path": "Desarrollo de software/Python/0 - Python.md"
+    },
+    {
+      "basename": "Tipos avanzados",
+      "path": "Desarrollo de software/Python/Tipos avanzados.md"
+    },
+    {
+      "basename": "Funciones",
+      "path": "Desarrollo de software/Python/Funciones.md"
+    },
+    {
+      "basename": "Control de flujo en py",
+      "path": "Desarrollo de software/Python/Control de flujo en py.md"
+    },
+    {
+      "basename": "Tipos basicos",
+      "path": "Desarrollo de software/Python/Tipos basicos.md"
+    },
+    {
+      "basename": "Introducción",
+      "path": "Desarrollo de software/Python/Introducción.md"
+    },
+    {
+      "basename": "Caracteres",
+      "path": "Desarrollo de software/Java/Caracteres.md"
+    },
+    {
+      "basename": "Composicion de objetos",
+      "path": "Desarrollo de software/Java/Composicion de objetos.md"
     },
     {
       "basename": "Encapsulamiento y visibilidad",
@@ -11,10 +43,6 @@
     {
       "basename": "0 - Java",
       "path": "Desarrollo de software/Java/0 - Java.md"
-    },
-    {
-      "basename": "Composicion de objetos",
-      "path": "Desarrollo de software/Java/Composicion de objetos.md"
     },
     {
       "basename": "POO",
@@ -33,10 +61,6 @@
       "path": "Desarrollo de software/Java/Control de flujo.md"
     },
     {
-      "basename": "Caracteres",
-      "path": "Desarrollo de software/Java/Caracteres.md"
-    },
-    {
       "basename": "Eclipse",
       "path": "Desarrollo de software/Java/Eclipse.md"
     },
@@ -49,8 +73,8 @@
       "path": "Desarrollo de software/Java/Tipos y variables.md"
     },
     {
-      "basename": "Introducción",
-      "path": "Desarrollo de software/Python/Introducción.md"
+      "basename": "JVM",
+      "path": "Desarrollo de software/Java/JVM.md"
     },
     {
       "basename": "What is Git",

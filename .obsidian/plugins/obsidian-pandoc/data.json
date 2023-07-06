@@ -7,9 +7,9 @@
   "displayYAMLFrontmatter": false,
   "linkStrippingBehaviour": "link",
   "highDPIDiagrams": true,
-  "pandoc": "",
+  "pandoc": "/opt/homebrew/bin/pandoc",
   "pdflatex": null,
-  "outputFolder": "",
+  "outputFolder": "/Users/jorge/Downloads",
   "extraArguments": "",
   "exportFrom": "md"
 }

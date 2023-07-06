@@ -35,7 +35,6 @@
   "Universidad": "TiSchool",
   "Desarrollo de software/Images": "FarImages",
   "Desarrollo de software/Python/Clases.md": "FasCube",
-  "Desarrollo de software/Python/Control de flujo.md": "TiEaseInOutControlPoints",
   "Desarrollo de software/Python/Excepciones.md": "RiErrorWarningFill",
   "Desarrollo de software/Python/Funciones.md": "TiFunction",
   "Desarrollo de software/Python/Introducción.md": "FasHourglassStart",
@@ -85,5 +84,6 @@
   "Desarrollo de software/Java/Ejercicios 1.md": "SiTestcafe",
   "Desarrollo de software/Java/Metodos.md": "TiAdjustmentsHorizontal",
   "Desarrollo de software/Java/Composicion de objetos.md": "SiOnnx",
-  "Desarrollo de software/Java/Encapsulamiento y visibilidad.md": "RiGitRepositoryPrivateFill"
+  "Desarrollo de software/Java/Encapsulamiento y visibilidad.md": "RiGitRepositoryPrivateFill",
+  "Desarrollo de software/Python/Control de flujo en py.md": "TiEaseInOutControlPoints"
 }
