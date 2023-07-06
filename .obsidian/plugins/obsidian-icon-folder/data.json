@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#7300ff",
     "recentlyUsedIcons": [
+      "RiGitRepositoryPrivateFill",
+      "SiOnnx",
       "TiAdjustmentsHorizontal",
       "TiEaseOutControlPoint",
-      "TiEaseInControlPoint",
-      "TiVariable",
-      "LiFile"
+      "TiEaseInControlPoint"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -83,5 +83,7 @@
   "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md": "FabFontAwesome",
   "Desarrollo de software/Java/POO.md": "FarObjectGroup",
   "Desarrollo de software/Java/Ejercicios 1.md": "SiTestcafe",
-  "Desarrollo de software/Java/Metodos.md": "TiAdjustmentsHorizontal"
+  "Desarrollo de software/Java/Metodos.md": "TiAdjustmentsHorizontal",
+  "Desarrollo de software/Java/Composicion de objetos.md": "SiOnnx",
+  "Desarrollo de software/Java/Encapsulamiento y visibilidad.md": "RiGitRepositoryPrivateFill"
 }
