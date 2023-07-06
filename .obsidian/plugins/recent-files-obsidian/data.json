@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Composicion de objetos",
-      "path": "Desarrollo de software/Java/Composicion de objetos.md"
+      "basename": "JVM",
+      "path": "Desarrollo de software/Java/JVM.md"
     },
     {
       "basename": "Encapsulamiento y visibilidad",
@@ -11,6 +11,10 @@
     {
       "basename": "0 - Java",
       "path": "Desarrollo de software/Java/0 - Java.md"
+    },
+    {
+      "basename": "Composicion de objetos",
+      "path": "Desarrollo de software/Java/Composicion de objetos.md"
     },
     {
       "basename": "POO",
@@ -47,10 +51,6 @@
     {
       "basename": "Introducción",
       "path": "Desarrollo de software/Python/Introducción.md"
-    },
-    {
-      "basename": "JVM",
-      "path": "Desarrollo de software/Java/JVM.md"
     },
     {
       "basename": "What is Git",

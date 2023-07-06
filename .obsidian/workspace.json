@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "619519d40cbc97b5",
+        "id": "5923eec6e2ad16ec",
         "type": "tabs",
         "children": [
           {
-            "id": "dab66065893cf2e9",
+            "id": "b95af02205f4aba1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5c2c6a8f1122a136",
@@ -147,20 +146,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dab66065893cf2e9",
+  "active": "b95af02205f4aba1",
   "lastOpenFiles": [
-    "Desarrollo de software/Java/Composicion de objetos.md",
+    "Desarrollo de software/Java/JVM.md",
+    "Desarrollo de software/Java/JVM.epub",
     "Desarrollo de software/Java/Encapsulamiento y visibilidad.md",
     "Desarrollo de software/Java/0 - Java.md",
+    "Desarrollo de software/Java/Composicion de objetos.md",
     "Desarrollo de software/Java/POO.md",
     "Desarrollo de software/Java/Metodos.md",
     "Santi.md",
@@ -173,7 +174,6 @@
     "Graficas.md",
     "Desarrollo de software/Java/Tipos y variables.md",
     "Desarrollo de software/Python/Introducción.md",
-    "Desarrollo de software/Java/JVM.md",
     "Desarrollo de software/Git & GitHub/What is Git.md",
     "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md",
     "Desarrollo de software/JavaScript/0 - JavaScript.md",
@@ -196,7 +196,6 @@
     "Desarrollo de software/Git & GitHub/Nombres de los repositorios.md",
     "Desarrollo de software/Tools.md",
     "Desarrollo de software/Q&A.md",
-    "ingles.md",
-    "Expectativas con el programa ONE.md"
+    "ingles.md"
   ]
 }
