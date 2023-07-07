@@ -6,7 +6,7 @@
 
 # ---- Plugin de Pandoc ----
 # Linux
-.obsidian/plugins/data.json
+.obsidian/plugins/obsidian-pandoc/data.json
 
 # MacOS
 .obsidian/plugins/obsidian-pandoc/data.json
