@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd0a90357eb6259b",
+        "id": "f142e7fbc894fb71",
         "type": "tabs",
         "children": [
           {
-            "id": "aec8bcd92650d959",
+            "id": "e1c2a33a7f803693",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
+    "width": 304.5,
     "collapsed": true
   },
   "right": {
@@ -129,28 +129,38 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "98ae464201c08671",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aec8bcd92650d959",
+  "active": "e1c2a33a7f803693",
   "lastOpenFiles": [
+    "Desarrollo de software/Java/Constructores.md",
+    "Desarrollo de software/Java/0 - Java.md",
+    "Desarrollo de software/Java/Encapsulamiento y visibilidad.md",
     "Desarrollo de software/Python/Clases.md",
     "Desarrollo de software/Python/0 - Python.md",
     "Desarrollo de software/Python/Tipos avanzados.md",
@@ -160,8 +170,6 @@
     "Desarrollo de software/Python/Introducción.md",
     "Desarrollo de software/Java/Caracteres.md",
     "Desarrollo de software/Java/Composicion de objetos.md",
-    "Desarrollo de software/Java/Encapsulamiento y visibilidad.md",
-    "Desarrollo de software/Java/0 - Java.md",
     "Desarrollo de software/Java/POO.md",
     "Desarrollo de software/Java/Metodos.md",
     "Santi.md",
@@ -177,7 +185,6 @@
     "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md",
     "Desarrollo de software/JavaScript/0 - JavaScript.md",
     "Desarrollo de software/ONE.md",
-    "Desarrollo de software/Java/Condicionales.md",
     "Universidad/Images/Arquitectura de computadoras/microprocesador.jpeg",
     "Universidad/Images/Arquitectura de computadoras/Unidad_Registros.jpeg",
     "Universidad/Images/Arquitectura de computadoras/Unidad_Funcional.jpeg",

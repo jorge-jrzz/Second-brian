@@ -4,14 +4,5 @@
 # Archivo de MacOS
 .DS_Store
 
-# ---- Plugin de Pandoc ----
-# Linux
+# Plugin de Pandoc
 .obsidian/plugins/obsidian-pandoc/data.json
-
-# MacOS
-.obsidian/plugins/obsidian-pandoc/data.json
-
-# Windows
-
-
-# -------

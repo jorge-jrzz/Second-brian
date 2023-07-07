@@ -9,7 +9,7 @@ banner_icon: ☕
 |                       Titulo                       | Temas                                                                                                                                                           |
 |:--------------------------------------------------:| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Java JRE y JDK: compilar y ejecutar programas:** | - [[JVM]] <br> - [[Primer programa]] <br> - [[Eclipse]] <br> - [[Tipos y variables]] <br> - [[Caracteres]] <br> - [[Condicionales]] <br> - [[Control de flujo]] |
-|                       **Java OO: Entendiendo la Orientación a Objetos**                       | - [[POO]] <br> - [[Metodos]] <br> - [[Composicion de objetos]] <br> - [[Encapsulamiento y visibilidad]]                                                                                                                                      |
+|                       **Java OO: Entendiendo la Orientación a Objetos**                       | - [[POO]] <br> - [[Metodos]] <br> - [[Composicion de objetos]] <br> - [[Encapsulamiento y visibilidad]] <br> - [[Constructores]]                                                                                                                                      |
 
 
 ![[Java_Cheat_Sheet.pdf]]
