@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f142e7fbc894fb71",
+        "id": "72c0c74bd428b2ae",
         "type": "tabs",
         "children": [
           {
-            "id": "e1c2a33a7f803693",
+            "id": "d4bbe425f98d8e82",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "5c2c6a8f1122a136",
@@ -131,7 +130,7 @@
             }
           },
           {
-            "id": "98ae464201c08671",
+            "id": "1da07a2dd63ff531",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -147,29 +146,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1c2a33a7f803693",
+  "active": "1da07a2dd63ff531",
   "lastOpenFiles": [
-    "Desarrollo de software/Java/Constructores.md",
-    "Desarrollo de software/Java/0 - Java.md",
-    "Desarrollo de software/Java/Encapsulamiento y visibilidad.md",
-    "Desarrollo de software/Python/Clases.md",
-    "Desarrollo de software/Python/0 - Python.md",
+    "Desarrollo de software/Python/Tipos basicos.md",
     "Desarrollo de software/Python/Tipos avanzados.md",
+    "Desarrollo de software/Python/0 - Python.md",
+    "Desarrollo de software/Python/Introducción.md",
+    "Emprendimiento/Lean Startup.md",
+    "Emprendimiento/Images/Lean Startup/validacion_aprendizaje.png",
+    "Emprendimiento/Images/Lean Startup/Portada_libro.png",
+    "Emprendimiento/Images/Lean Startup",
+    "Lean Startup/metodo_lean_startup.png",
+    "Lean Startup/Portada_libro.png",
+    "Lean Startup",
+    "carpeta sin título",
+    "Portada_libro.png",
+    "Pasted image 20230707180003.png",
+    "Emprendimiento/Images/metodo_lean_startup.png",
+    "Emprendimiento/Images",
+    "Desarrollo de software/Java/0 - Java.md",
+    "Emprendimiento",
+    "Desarrollo de software/Java/Constructores.md",
+    "Desarrollo de software/Python/Clases.md",
     "Desarrollo de software/Python/Funciones.md",
     "Desarrollo de software/Python/Control de flujo en py.md",
-    "Desarrollo de software/Python/Tipos basicos.md",
-    "Desarrollo de software/Python/Introducción.md",
     "Desarrollo de software/Java/Caracteres.md",
     "Desarrollo de software/Java/Composicion de objetos.md",
+    "Desarrollo de software/Java/Encapsulamiento y visibilidad.md",
     "Desarrollo de software/Java/POO.md",
     "Desarrollo de software/Java/Metodos.md",
     "Santi.md",
@@ -183,19 +195,10 @@
     "Desarrollo de software/Java/JVM.md",
     "Desarrollo de software/Git & GitHub/What is Git.md",
     "Desarrollo de software/Git & GitHub/0 - Git & GitHub.md",
-    "Desarrollo de software/JavaScript/0 - JavaScript.md",
-    "Desarrollo de software/ONE.md",
     "Universidad/Images/Arquitectura de computadoras/microprocesador.jpeg",
     "Universidad/Images/Arquitectura de computadoras/Unidad_Registros.jpeg",
     "Universidad/Images/Arquitectura de computadoras/Unidad_Funcional.jpeg",
-    "Universidad/Images/Arquitectura de computadoras/Diagrama ASM.png",
-    "Universidad/Images/Arquitectura de computadoras/Datapath.jpeg",
-    "Universidad/Images/Arquitectura de computadoras/ALU.jpeg",
     "Universidad/Images/Arquitectura de computadoras",
-    "Gallery/Java-banner.webp",
-    "Desarrollo de software/Images/Java/tipos_datos.png",
-    "Desarrollo de software/Images/Java/stack_heap.png",
-    "Desarrollo de software/Images/Java/Lenguajes_JVM.png",
     "Desarrollo de software/Images/Java/Java_Cheat_Sheet.pdf",
     "Desarrollo de software/Images/Java"
   ]

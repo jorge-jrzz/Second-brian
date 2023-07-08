@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#7300ff",
     "recentlyUsedIcons": [
-      "LiConstruction",
+      "FarImages",
+      "FasUpLong",
+      "LiStar",
       "RiGitRepositoryPrivateFill",
-      "SiOnnx",
-      "TiAdjustmentsHorizontal",
-      "TiEaseOutControlPoint"
+      "SiOnnx"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -86,5 +86,7 @@
   "Desarrollo de software/Java/Composicion de objetos.md": "SiOnnx",
   "Desarrollo de software/Java/Encapsulamiento y visibilidad.md": "RiGitRepositoryPrivateFill",
   "Desarrollo de software/Python/Control de flujo en py.md": "TiEaseInOutControlPoints",
-  "Desarrollo de software/Java/Constructores.md": "LiConstruction"
+  "Emprendimiento": "LiStar",
+  "Emprendimiento/Lean Startup.md": "FasUpLong",
+  "Emprendimiento/Images": "FarImages"
 }

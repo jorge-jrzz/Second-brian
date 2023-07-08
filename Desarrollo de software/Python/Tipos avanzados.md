@@ -699,3 +699,79 @@ print(pila)  # ['elemento 1', 'elemento 2']
 ```
 
 En este ejemplo, creamos una lista vacía que actuará como pila, y luego agregamos tres elementos utilizando el método **`append()`**. Luego, eliminamos el último elemento agregado a la pila utilizando el método **`pop()`** sin argumentos.
+
+---
+
+El indexing (indexación) en Python se utiliza para acceder a elementos individuales dentro de una secuencia, como una lista, una cadena o una tupla, utilizando su posición o índice. 
+
+Aquí tienes una explicación sobre el indexing:
+
+- En Python, los índices comienzan desde 0. Esto significa que el primer elemento de una secuencia tiene un índice de 0, el segundo elemento tiene un índice de 1, y así sucesivamente.
+
+- Puedes acceder a un elemento individual utilizando corchetes `[]` y especificando el índice del elemento que deseas obtener.
+
+Aquí tienes algunos ejemplos para ilustrar el indexing en Python:
+
+1. Acceder a un elemento de una lista:
+
+```python
+lista = [10, 20, 30, 40, 50]
+elemento = lista[2]  # Accede al tercer elemento, 30
+```
+
+En este caso, `elemento` contendrá el valor 30, que es el elemento con índice 2 en la lista.
+
+2. Acceder a un carácter de una cadena:
+
+```python
+cadena = "Python"
+caracter = cadena[1]  # Accede al segundo carácter, 'y'
+```
+
+Aquí, `caracter` contendrá el carácter 'y', que es el elemento con índice 1 en la cadena.
+
+3. Acceder a un elemento de una tupla:
+
+```python
+tupla = (100, 200, 300)
+elemento = tupla[0]  # Accede al primer elemento, 100
+```
+
+En este caso, `elemento` contendrá el valor 100, que es el primer elemento de la tupla.
+
+Recuerda que es importante tener en cuenta que los índices deben estar dentro del rango válido para la secuencia. Si intentas acceder a un índice fuera de rango, se producirá un error de índice fuera de rango (`IndexError`).
+
+Espero que esta explicación aclare tus dudas sobre el indexing en Python. Si tienes más preguntas, ¡no dudes en hacerlas! Estoy aquí para ayudarte.
+
+#### Slicing
+
+En Python, el slicing es una técnica que ==permite extraer partes de una secuencia==, como una lista, una cadena o una tupla. La sintaxis general del slicing es la siguiente:
+```python
+secuencia[inicio:fin:paso]
+```
+
+- `inicio` representa el índice donde comienza el slice. Si se omite, por defecto se toma el primer elemento de la secuencia.
+- `fin` representa el índice donde termina el slice. Este índice no se incluye en el resultado. Si se omite, por defecto se toma el último elemento de la secuencia.
+- `paso` es un valor opcional que indica el incremento entre los índices del slice. Si se omite, por defecto se toma un paso de 1.
+
+Algunos ejemplos pueden ayudar a entender mejor cómo funciona el slicing:
+1. Obtener una porción de una lista:
+	```python
+	lista = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+	porcion = lista[2:6]  # [3, 4, 5, 6]
+	```
+	En este caso, `porcion` contendrá los elementos de la lista desde el índice 2 hasta el índice 5 (el índice 6 se excluye).
+
+2. Extraer una subcadena de una cadena:
+	```python
+	cadena = "Python es genial"
+	subcadena = cadena[7:9]  # "es"
+	```
+	Aquí, `subcadena` contendrá los caracteres desde el índice 7 hasta el índice 8 de la cadena.
+
+1. Invertir una cadena utilizando un paso negativo:
+	```python
+	cadena = "Hola"
+	invertida = cadena[::-1]  # "aloH"
+	```
+	Al especificar un paso de -1, el slicing recorre la cadena en orden inverso, obteniendo así una nueva cadena invertida.
