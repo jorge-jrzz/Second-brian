@@ -1,3 +1,8 @@
+---
+banner: "![[python.jpg]]"
+banner_y: 0.552
+banner_icon: 🐍
+---
 
 Temario:
 - [[Introducción]]

@@ -1,9 +1,8 @@
 ---
-banner: "![[backpacking_5134455469_o.jpg]]"
-banner_y: 0.168
 banner_icon: 🏗️
+banner: "![[backpacking_5134455469_o.jpg]]"
+banner_y: 0.176
 ---
-
 # Constructores
 
 Los constructores son métodos especiales utilizados para crear e inicializar objetos de una clase en Java. Se llaman automáticamente al crear una nueva instancia de la clase utilizando la palabra clave `new`. Los constructores tienen el mismo nombre que la clase y pueden tener parámetros para aceptar valores iniciales y configurar el estado inicial del objeto.

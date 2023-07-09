@@ -1,7 +1,8 @@
+
 ---
 banner_icon: 🤖
 banner: "![[viking-2-image-of-mars-utopian-plain_7651153704_o.jpg]]"
-banner_y: 0.368
+banner_y: 0.38
 ---
 
 # Java Virtual Machine

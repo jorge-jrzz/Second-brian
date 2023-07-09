@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#7300ff",
     "recentlyUsedIcons": [
+      "LiConstruction",
+      "SiConstruct3",
       "FarImages",
       "FasUpLong",
-      "LiStar",
-      "RiGitRepositoryPrivateFill",
-      "SiOnnx"
+      "LiStar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -88,5 +88,6 @@
   "Desarrollo de software/Python/Control de flujo en py.md": "TiEaseInOutControlPoints",
   "Emprendimiento": "LiStar",
   "Emprendimiento/Lean Startup.md": "FasUpLong",
-  "Emprendimiento/Images": "FarImages"
+  "Emprendimiento/Images": "FarImages",
+  "Desarrollo de software/Java/Constructores.md": "LiConstruction"
 }

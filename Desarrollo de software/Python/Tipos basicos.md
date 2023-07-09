@@ -100,14 +100,41 @@ Estos son algunos de los métodos más comunes para formatear cadenas en Python.
 5. **`strip()`**: Este método retorna una copia del string sin los espacios en blanco al principio y al final.
 6. **`replace()`**: Este método reemplaza una subcadena por otra en el string.
 7. **`split()`**: Este método separa el string en subcadenas utilizando un separador (por defecto, el separador es el espacio en blanco) y retorna una lista con las subcadenas.
-8. **`join()`**: Este método une una lista de strings utilizando el string que llama al método como separador.
-9. **`startswith()`**: Este método retorna **`True`** si el string comienza con la subcadena especificada como argumento.
-10. **`endswith()`**: Este método retorna **`True`** si el string termina con la subcadena especificada como argumento.
-11. **`find()`**: Este método retorna la posición de la primera ocurrencia de la subcadena especificada como argumento en el string, o `-1` si no se encuentra.
-12. **`count()`**: Este método retorna la cantidad de veces que aparece la subcadena especificada como argumento en el string.
-13.  **`title()`**: Este método retorna una copia del string con la primera letra de cada palabra en mayúscula y el resto en minúscula.
-14. **`in`**: Este operador se utiliza para verificar si una subcadena está presente en un string. Retorna **`True`** si la subcadena se encuentra en el string y **`False`** en caso contrario.
-15. **`not in`**: Este operador se utiliza para verificar si una subcadena no está presente en un string. Retorna **`True`** si la subcadena **no** se encuentra en el string y **`False`** en caso contrario.
+8. **`join()`**: Se utiliza para unir los elementos de una secuencia en una sola cadena. Toma una secuencia (como una lista, una tupla o un generador) y devuelve una cadena que contiene todos los elementos de la secuencia concatenados.
+	La sintaxis básica del método `.join()` es la siguiente:
+	```python
+	cadena_separador.join(secuencia)
+	```
+	- `cadena_separador`: Es una cadena que se utiliza como separador para unir los elementos de la secuencia. Este separador se coloca entre cada par de elementos adyacentes en la cadena resultante. Por ejemplo, si el separador es una coma ",", los elementos estarán separados por comas en la cadena resultante.
+	- `secuencia`: Es la secuencia de elementos que se van a unir en una cadena. Puede ser una lista, una tupla u otro tipo de secuencia iterable.
+	Ejemplos:
+	```python
+	# Ejemplo 1
+	lista = ['Hola', 'mundo', 'Python']
+	cadena_resultante = ' '.join(lista)
+	print(cadena_resultante)
+	# Salida: Hola mundo Python
+	
+	# Ejemplo 2
+	tupla = ('apple', 'banana', 'cherry')
+	cadena_resultante = '-'.join(tupla)
+	print(cadena_resultante)
+	# Salida: apple-banana-cherry
+	
+	# Ejemplo 3
+	generador = (str(x) for x in range(5))
+	cadena_resultante = '+'.join(generador)
+	print(cadena_resultante)
+	# Salida: 0+1+2+3+4
+	```
+
+1. **`startswith()`**: Este método retorna **`True`** si el string comienza con la subcadena especificada como argumento.
+2. **`endswith()`**: Este método retorna **`True`** si el string termina con la subcadena especificada como argumento.
+3. **`find()`**: Este método retorna la posición de la primera ocurrencia de la subcadena especificada como argumento en el string, o `-1` si no se encuentra.
+4. **`count()`**: Este método retorna la cantidad de veces que aparece la subcadena especificada como argumento en el string.
+5.  **`title()`**: Este método retorna una copia del string con la primera letra de cada palabra en mayúscula y el resto en minúscula.
+6. **`in`**: Este operador se utiliza para verificar si una subcadena está presente en un string. Retorna **`True`** si la subcadena se encuentra en el string y **`False`** en caso contrario.
+7. **`not in`**: Este operador se utiliza para verificar si una subcadena no está presente en un string. Retorna **`True`** si la subcadena **no** se encuentra en el string y **`False`** en caso contrario.
 
 Ejemplo:
 ```python
