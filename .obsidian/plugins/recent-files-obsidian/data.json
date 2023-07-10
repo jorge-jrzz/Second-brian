@@ -1,52 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Desarrollo de software",
-      "path": "Desarrollo de software/Desarrollo de software.md"
+      "basename": "Lean Startup",
+      "path": "Emprendimiento/Lean Startup.md"
     },
     {
-      "basename": "Control de flujo en py",
-      "path": "Desarrollo de software/Python/Control de flujo en py.md"
+      "basename": "Tools",
+      "path": "Desarrollo de software/Tools.md"
     },
     {
-      "basename": "0 - Python",
-      "path": "Desarrollo de software/Python/0 - Python.md"
+      "basename": "PMV",
+      "path": "Emprendimiento/Images/Lean Startup/PMV.png"
     },
     {
-      "basename": "Tipos basicos",
-      "path": "Desarrollo de software/Python/Tipos basicos.md"
-    },
-    {
-      "basename": "JVM",
-      "path": "Desarrollo de software/Java/JVM.md"
-    },
-    {
-      "basename": "Constructores",
-      "path": "Desarrollo de software/Java/Constructores.md"
-    },
-    {
-      "basename": "Control de flujo",
-      "path": "Desarrollo de software/Java/Control de flujo.md"
+      "basename": "validacion_aprendizaje",
+      "path": "Emprendimiento/Images/Lean Startup/validacion_aprendizaje.png"
     },
     {
       "basename": "0 - Java",
       "path": "Desarrollo de software/Java/0 - Java.md"
     },
     {
-      "basename": "Lean Startup",
-      "path": "Emprendimiento/Lean Startup.md"
+      "basename": "0 - Python",
+      "path": "Desarrollo de software/Python/0 - Python.md"
     },
     {
-      "basename": "Tipos avanzados",
-      "path": "Desarrollo de software/Python/Tipos avanzados.md"
+      "basename": "Control de flujo en py",
+      "path": "Desarrollo de software/Python/Control de flujo en py.md"
+    },
+    {
+      "basename": "Tipos basicos",
+      "path": "Desarrollo de software/Python/Tipos basicos.md"
     },
     {
       "basename": "Introducción",
       "path": "Desarrollo de software/Python/Introducción.md"
     },
     {
-      "basename": "validacion_aprendizaje",
-      "path": "Emprendimiento/Images/Lean Startup/validacion_aprendizaje.png"
+      "basename": "Tipos avanzados",
+      "path": "Desarrollo de software/Python/Tipos avanzados.md"
     },
     {
       "basename": "Clases",
@@ -81,12 +73,24 @@
       "path": "Desarrollo de software/Java/Primer programa.md"
     },
     {
+      "basename": "Control de flujo",
+      "path": "Desarrollo de software/Java/Control de flujo.md"
+    },
+    {
       "basename": "Eclipse",
       "path": "Desarrollo de software/Java/Eclipse.md"
     },
     {
+      "basename": "Desarrollo de software",
+      "path": "Desarrollo de software/Desarrollo de software.md"
+    },
+    {
       "basename": "Tipos y variables",
       "path": "Desarrollo de software/Java/Tipos y variables.md"
+    },
+    {
+      "basename": "JVM",
+      "path": "Desarrollo de software/Java/JVM.md"
     },
     {
       "basename": "What is Git",

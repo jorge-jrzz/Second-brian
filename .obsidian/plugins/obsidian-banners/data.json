@@ -1,7 +1,7 @@
 {
-  "height": 250,
+  "height": null,
   "style": "gradient",
-  "showInInternalEmbed": false,
+  "showInInternalEmbed": true,
   "internalEmbedHeight": null,
   "showInPreviewEmbed": true,
   "previewEmbedHeight": null,

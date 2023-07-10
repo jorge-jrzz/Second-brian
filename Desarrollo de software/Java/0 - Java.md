@@ -1,6 +1,6 @@
 ---
 banner: "![[Java-banner.webp]]"
-banner_y: 0.688
+banner_y: 0.016
 banner_icon: ☕
 ---
 

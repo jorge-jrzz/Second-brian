@@ -6,11 +6,11 @@ banner_y: 0.248
 
 # Tools
 
-### <mark class="hltr-orange">Básicas</mark>
+### Básicas
 - [GitHub](https://github.com/) | [GitHub Education](https://education.github.com/globalcampus/student) 
 - [Replit](https://replit.com/~)
 
-### <mark class="hltr-orange">Diseño web</mark>
+### Diseño web
 
 | Herramienta                                                    | Utilidad                                     |
 | -------------------------------------------------------------- | -------------------------------------------- |
@@ -34,9 +34,10 @@ banner_y: 0.248
 | [Hamburgers](https://jonsuh.com/hamburgers/)                   | Animaciones para menus de hamburguesa        |
 | [Transition.css](https://www.transition.style/)                | Transiciones animadas con CSS                |
 | [Previewed](https://previewed.app/)                            | Mockups coon diferentes dispositivos         |
+| [InVision](https://www.invisionapp.com/)                       | Hacer prototipos con navegación.                                              |
 
 
-### <mark class="hltr-orange">Inteligencia artificial</mark>
+### Inteligencia artificial
 
 | Herramienta                                       | Utilidad                                               |
 | ------------------------------------------------- | ------------------------------------------------------ |
@@ -47,7 +48,8 @@ banner_y: 0.248
 | [Black box](https://www.useblackbox.io/home-chat) | Parecido a GitHub Copilot                              |
 | [DALL·E](https://labs.openai.com/)                | Generación de imágenes a partir de texto.                                                       |
 
-### <mark class="hltr-orange">Conocimiento</mark>
+
+### Conocimiento
 
 | Herramienta                                        | Utilidad                                    |
 | -------------------------------------------------- | ------------------------------------------- |
@@ -55,7 +57,8 @@ banner_y: 0.248
 | [Roadmaps](https://roadmap.sh/roadmaps)            | Roadmaps de diferentes tecnologias.         |
 | [DevDocs](https://devdocs.io/)                     | Documentación de muchas tecnologías.        |
 
-### <mark class="hltr-orange">Educación</mark>
+
+### Educación
 
 | Herramienta                                                          | Utilidad                     |
 | -------------------------------------------------------------------- | ---------------------------- |
@@ -73,7 +76,8 @@ banner_y: 0.248
 | [TypingClub](https://www.typingclub.com/)          | Posición de las teclas en el keyboard.       |
 | [Mecanografía](https://www.keybr.com/es/index)     | Lecciones de mecanografía.                                            |
 
-### <mark class="hltr-orange">Edición</mark>
+
+### Edición
 
 - [OpenBootcamp](https://campus.open-bootcamp.com/login)
 - [PDFs](https://www.ilovepdf.com/es)
