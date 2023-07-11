@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1341cce052eaba9e",
+        "id": "a8a3a494df832c39",
         "type": "tabs",
         "children": [
           {
-            "id": "59ff6888bab6cc9d",
+            "id": "6c614cfe9b0abe4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emprendimiento/Lean Startup.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emprendimiento/Lean Startup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emprendimiento/Lean Startup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Emprendimiento/Lean Startup.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,28 +146,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "59ff6888bab6cc9d",
+  "active": "fb11f2cb5e5badef",
   "lastOpenFiles": [
-    "Pasted image 20230709194555.png",
+    "Desarrollo de software/Python/Tipos avanzados.md",
+    "Desarrollo de software/Python/0 - Python.md",
+    "Desarrollo de software/Python/Tipos basicos.md",
+    "Desarrollo de software/Python/Funciones.md",
+    "Desarrollo de software/Python/Control de flujo en py.md",
     "Emprendimiento/Lean Startup.md",
+    "Pasted image 20230709194555.png",
     "Desarrollo de software/Tools.md",
     "Emprendimiento/Images/Lean Startup/PMV.png",
     "Emprendimiento/Images/Lean Startup/validacion_aprendizaje.png",
     "Desarrollo de software/Java/0 - Java.md",
-    "Desarrollo de software/Python/0 - Python.md",
-    "Desarrollo de software/Python/Control de flujo en py.md",
-    "Desarrollo de software/Python/Tipos basicos.md",
     "Desarrollo de software/Python/Introducción.md",
-    "Desarrollo de software/Python/Tipos avanzados.md",
     "Emprendimiento/Images/Lean Startup/Portada_libro.png",
     "Emprendimiento/Images/Lean Startup",
     "Lean Startup/metodo_lean_startup.png",
@@ -189,7 +182,6 @@
     "Emprendimiento",
     "Desarrollo de software/Java/Constructores.md",
     "Desarrollo de software/Python/Clases.md",
-    "Desarrollo de software/Python/Funciones.md",
     "Desarrollo de software/Java/Caracteres.md",
     "Desarrollo de software/Java/Composicion de objetos.md",
     "Desarrollo de software/Java/Encapsulamiento y visibilidad.md",

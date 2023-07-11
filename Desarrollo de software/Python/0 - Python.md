@@ -1,10 +1,11 @@
 ---
 banner: "![[python.jpg]]"
-banner_y: 0.552
+banner_y: 0.556
 banner_icon: 🐍
 ---
 
-Temario:
+# Temario:
+
 - [[Introducción]]
 - [[Tipos basicos]]
 - [[Control de flujo en py]]
