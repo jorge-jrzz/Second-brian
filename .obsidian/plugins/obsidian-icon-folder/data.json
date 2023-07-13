@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#7300ff",
     "recentlyUsedIcons": [
+      "TiArrowUpRightCircle",
+      "FasWater",
+      "TiStairsUp",
       "LiConstruction",
-      "SiConstruct3",
-      "FarImages",
-      "FasUpLong",
-      "LiStar"
+      "SiConstruct3"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -89,5 +89,8 @@
   "Emprendimiento": "LiStar",
   "Emprendimiento/Lean Startup.md": "FasUpLong",
   "Emprendimiento/Images": "FarImages",
-  "Desarrollo de software/Java/Constructores.md": "LiConstruction"
+  "Desarrollo de software/Java/Constructores.md": "LiConstruction",
+  "Desarrollo de software/Metodologias agiles": "TiStairsUp",
+  "Desarrollo de software/Metodologias agiles/Waterfall.md": "FasWater",
+  "Desarrollo de software/Metodologias agiles/Agile.md": "TiArrowUpRightCircle"
 }

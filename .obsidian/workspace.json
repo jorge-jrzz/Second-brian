@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8a3a494df832c39",
+        "id": "a9705b1f90018dc9",
         "type": "tabs",
         "children": [
           {
-            "id": "6c614cfe9b0abe4d",
+            "id": "a202b125ce817452",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 212.5
   },
   "right": {
     "id": "5c2c6a8f1122a136",
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desarrollo de software/Metodologias agiles/Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desarrollo de software/Metodologias agiles/Agile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +128,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Desarrollo de software/Metodologias agiles/Agile.md"
+              }
             }
           },
           {
-            "id": "1da07a2dd63ff531",
+            "id": "98ae464201c08671",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -138,11 +142,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,34 +162,35 @@
   },
   "active": "fb11f2cb5e5badef",
   "lastOpenFiles": [
-    "Desarrollo de software/Python/Tipos avanzados.md",
-    "Desarrollo de software/Python/0 - Python.md",
-    "Desarrollo de software/Python/Tipos basicos.md",
-    "Desarrollo de software/Python/Funciones.md",
-    "Desarrollo de software/Python/Control de flujo en py.md",
-    "Emprendimiento/Lean Startup.md",
-    "Pasted image 20230709194555.png",
-    "Desarrollo de software/Tools.md",
-    "Emprendimiento/Images/Lean Startup/PMV.png",
-    "Emprendimiento/Images/Lean Startup/validacion_aprendizaje.png",
-    "Desarrollo de software/Java/0 - Java.md",
+    "Desarrollo de software/Images/Metodologias_agiles/spotify.png",
+    "Desarrollo de software/Images/Metodologias_agiles/agile.png",
+    "Desarrollo de software/Metodologias agiles/Agile.md",
+    "Desarrollo de software/Metodologias agiles/Waterfall.md",
+    "Desarrollo de software/Metodologias agiles/0 - Metodologias.md",
+    "Universidad/Proyecto de ingenieria I/0 - Proyecto de ingenieria I.md",
+    "Desarrollo de software/Desarrollo de software.md",
+    "Desarrollo de software/Images/Metodologias_agiles/waterfall.png",
     "Desarrollo de software/Python/Introducción.md",
+    "Desarrollo de software/Images/Metodologias_agiles",
+    "Desarrollo de software/Metodologias agiles",
+    "Desarrollo de software/Python/0 - Python.md",
+    "Emprendimiento/Images/Lean Startup/PMV.png",
+    "Desarrollo de software/Python/Tipos basicos.md",
+    "Desarrollo de software/Python/Tipos avanzados.md",
+    "Emprendimiento/Images/Lean Startup/validacion_aprendizaje.png",
     "Emprendimiento/Images/Lean Startup/Portada_libro.png",
     "Emprendimiento/Images/Lean Startup",
-    "Lean Startup/metodo_lean_startup.png",
-    "Lean Startup/Portada_libro.png",
-    "Lean Startup",
-    "carpeta sin título",
-    "Portada_libro.png",
-    "Pasted image 20230707180003.png",
-    "Emprendimiento/Images/metodo_lean_startup.png",
+    "Emprendimiento/Lean Startup.md",
     "Emprendimiento/Images",
     "Emprendimiento",
     "Desarrollo de software/Java/Constructores.md",
+    "Desarrollo de software/Java/0 - Java.md",
+    "Desarrollo de software/Java/Encapsulamiento y visibilidad.md",
     "Desarrollo de software/Python/Clases.md",
+    "Desarrollo de software/Python/Funciones.md",
+    "Desarrollo de software/Python/Control de flujo en py.md",
     "Desarrollo de software/Java/Caracteres.md",
     "Desarrollo de software/Java/Composicion de objetos.md",
-    "Desarrollo de software/Java/Encapsulamiento y visibilidad.md",
     "Desarrollo de software/Java/POO.md",
     "Desarrollo de software/Java/Metodos.md",
     "Santi.md",
@@ -192,12 +198,11 @@
     "Desarrollo de software/Java/Primer programa.md",
     "Desarrollo de software/Java/Control de flujo.md",
     "Desarrollo de software/Java/Eclipse.md",
-    "Desarrollo de software/Desarrollo de software.md",
     "Graficas.md",
-    "Desarrollo de software/Java/Tipos y variables.md",
-    "Desarrollo de software/Java/JVM.md",
-    "Desarrollo de software/Git & GitHub/What is Git.md",
     "Universidad/Images/Arquitectura de computadoras/microprocesador.jpeg",
+    "Universidad/Images/Arquitectura de computadoras/Unidad_Registros.jpeg",
+    "Universidad/Images/Arquitectura de computadoras/Unidad_Funcional.jpeg",
+    "Universidad/Images/Arquitectura de computadoras/Diagrama ASM.png",
     "Universidad/Images/Arquitectura de computadoras",
     "Desarrollo de software/Images/Java/Java_Cheat_Sheet.pdf",
     "Desarrollo de software/Images/Java"
