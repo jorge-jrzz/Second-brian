@@ -1,8 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "Pilas",
+      "path": "Universidad/Estructuras de datos lineales/Pilas.md"
+    },
+    {
+      "basename": "0 - Estructuras de datos lineales",
+      "path": "Universidad/Estructuras de datos lineales/0 - Estructuras de datos lineales.md"
+    },
+    {
+      "basename": "Tipos avanzados",
+      "path": "Desarrollo de software/Python/Tipos avanzados.md"
+    },
+    {
+      "basename": "Listas enlazadas",
+      "path": "Universidad/Estructuras de datos lineales/Listas enlazadas.md"
+    },
+    {
+      "basename": "Alojamiento de memoria en C",
+      "path": "Universidad/Estructuras de datos lineales/Alojamiento de memoria en C.md"
+    },
+    {
+      "basename": "Administracion de memoria",
+      "path": "Universidad/Estructuras de datos lineales/Administracion de memoria.md"
+    },
+    {
+      "basename": "0 - Python",
+      "path": "Desarrollo de software/Python/0 - Python.md"
+    },
+    {
+      "basename": "Polimorfismo",
+      "path": "Desarrollo de software/Java/Polimorfismo.md"
+    },
+    {
+      "basename": "Clases abstractas",
+      "path": "Desarrollo de software/Java/Clases abstractas.md"
+    },
+    {
+      "basename": "Herencia",
+      "path": "Desarrollo de software/Java/Herencia.md"
+    },
+    {
+      "basename": "JVM",
+      "path": "Desarrollo de software/Java/JVM.md"
+    },
+    {
+      "basename": "0 - Java",
+      "path": "Desarrollo de software/Java/0 - Java.md"
+    },
+    {
+      "basename": "Desarrollo de software",
+      "path": "Desarrollo de software/Desarrollo de software.md"
+    },
+    {
+      "basename": "POO",
+      "path": "Desarrollo de software/Java/POO.md"
+    },
+    {
+      "basename": "Composicion de objetos",
+      "path": "Desarrollo de software/Java/Composicion de objetos.md"
+    },
+    {
+      "basename": "Funciones",
+      "path": "Desarrollo de software/Python/Funciones.md"
+    },
+    {
+      "basename": "Clases",
+      "path": "Desarrollo de software/Python/Clases.md"
+    },
+    {
       "basename": "Agile",
       "path": "Desarrollo de software/Metodologias agiles/Agile.md"
+    },
+    {
+      "basename": "0 - Metodologias",
+      "path": "Desarrollo de software/Metodologias agiles/0 - Metodologias.md"
     },
     {
       "basename": "spotify",
@@ -17,16 +89,8 @@
       "path": "Desarrollo de software/Metodologias agiles/Waterfall.md"
     },
     {
-      "basename": "0 - Metodologias",
-      "path": "Desarrollo de software/Metodologias agiles/0 - Metodologias.md"
-    },
-    {
       "basename": "0 - Proyecto de ingenieria I",
       "path": "Universidad/Proyecto de ingenieria I/0 - Proyecto de ingenieria I.md"
-    },
-    {
-      "basename": "Desarrollo de software",
-      "path": "Desarrollo de software/Desarrollo de software.md"
     },
     {
       "basename": "waterfall",
@@ -37,24 +101,12 @@
       "path": "Desarrollo de software/Python/Introducción.md"
     },
     {
-      "basename": "0 - Python",
-      "path": "Desarrollo de software/Python/0 - Python.md"
-    },
-    {
       "basename": "Tipos basicos",
       "path": "Desarrollo de software/Python/Tipos basicos.md"
     },
     {
-      "basename": "Tipos avanzados",
-      "path": "Desarrollo de software/Python/Tipos avanzados.md"
-    },
-    {
       "basename": "Constructores",
       "path": "Desarrollo de software/Java/Constructores.md"
-    },
-    {
-      "basename": "0 - Java",
-      "path": "Desarrollo de software/Java/0 - Java.md"
     }
   ],
   "omittedPaths": [],

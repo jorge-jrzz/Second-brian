@@ -39,7 +39,7 @@ saludar('María', 'Buenos días') # imprime 'Buenos días, María!'
 
 En este ejemplo, la función **`saludar`** tiene un parámetro **`saludo`** opcional con un valor predeterminado de **`'Hola'`**. Si se llama a la función con un solo argumento (**`saludar('Juan')`**), el valor predeterminado se utiliza para **`saludo`**. Si se llama a la función con dos argumentos (**`saludar('María', 'Buenos días')`**), se utiliza el segundo argumento como el valor de **`saludo`**.
 
-En resumen, en Python, una función es un bloque de código que realiza una tarea específica. Los parámetros son valores que se pasan a la función al llamarla, y los argumentos son los valores reales que se pasan. Las funciones pueden tener múltiples parámetros y argumentos, y se pueden definir con parámetros opcionales que tienen valores predeterminados.
+En resumen, en Python, una función es un bloque de código que realiza una tarea específica. Los parámetros son valores que se pasan a la función al llamarla, y los argumentos son los valores reales que se le pasan. Las funciones pueden tener múltiples parámetros y argumentos, y se pueden definir con parámetros opcionales que tienen valores predeterminados.
 
 
 ## Argumentos nombrados
@@ -111,7 +111,7 @@ ciudad: Madrid
 trabajo: Programador
 ```
 
-En resumen, el parámetro **`**kwargs`** ==permite a una función aceptar un número variable de argumentos de palabra clave, que se agrupan en un diccionario.== Los "kwargs" pueden ser útiles en situaciones donde se necesita una función que pueda aceptar argumentos de palabra clave de longitud variable, como por ejemplo cuando se trabaja con opciones de configuración de un programa.
+En resumen, el parámetro **`* *kwargs`** ==permite a una función aceptar un número variable de argumentos de palabra clave, que se agrupan en un diccionario.== Los "kwargs" pueden ser útiles en situaciones donde se necesita una función que pueda aceptar argumentos de palabra clave de longitud variable, como por ejemplo cuando se trabaja con opciones de configuración de un programa.
 
 
 ### Alcance (global)
