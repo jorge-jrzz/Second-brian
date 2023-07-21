@@ -36,13 +36,9 @@ La JVM admite una gran cantidad de lenguajes de programación, como Kotlin, Groo
 ### Historia
 
 La **JVM** (Java Virtual Machine) fue desarrollada por primera vez por Sun Microsystems (ahora Oracle Corporation) en la década de 1990 como parte del lenguaje de programación Java. Fue creada con el objetivo de proporcionar una plataforma de ejecución portátil y segura para las aplicaciones Java.
-
 El diseño de la JVM se basó en gran medida en la máquina virtual P-Code propuesta para el lenguaje de programación Pascal en la década de 1970. James Gosling, Mike Sheridan y Patrick Naughton lideraron el equipo de desarrollo de la JVM en Sun Microsystems, y su trabajo sentó las bases para la tecnología que ha evolucionado desde entonces.
-
 La versión inicial de la JVM fue lanzada junto con la primera versión pública de Java en 1995. Desde entonces, la JVM ha evolucionado y ha sido objeto de varias mejoras y actualizaciones. Oracle Corporation ha sido el principal responsable del desarrollo y mantenimiento de la JVM desde que adquirió Sun Microsystems en 2010.
-
 A lo largo de los años, se han introducido mejoras significativas en la JVM, como el uso de la compilación just-in-time (JIT), que mejora el rendimiento al traducir partes del bytecode en código nativo en tiempo de ejecución. También se han realizado mejoras en la gestión de memoria, el recolector de basura y la optimización del código.
-
 Además, la JVM ha sido adoptada por otras implementaciones y proyectos relacionados con Java, como OpenJDK y la comunidad Java. Esto ha permitido una mayor colaboración y desarrollo de la JVM, con contribuciones y mejoras de diferentes partes interesadas.
 
 En resumen, la JVM ha sido una parte integral del ecosistema de Java desde sus primeros días y ha sido clave para el éxito y la popularidad del lenguaje. Ha evolucionado a lo largo de los años para brindar un entorno de ejecución eficiente, seguro y portátil para las aplicaciones Java en una amplia variedad de plataformas y sistemas operativos.
@@ -55,3 +51,7 @@ En resumen, la JVM ha sido una parte integral del ecosistema de Java desde sus p
 + ==¿Cuál es la diferencia entre archivos ejecutables de Windows (.exe) y archivos ejecutables de Java (Bytecode)?==
 	1. Los ejecutables de Windows pueden correr directamente en el sistema operativo, los de Java necesitan de la máquina virtual. Los programas escritos en Java necesitan de la máquina virtual para ser ejecutados.
 	2. Los archivos ejecutables de Java son portátiles, los de Windows no. Recuerda que la palabra "portátil" se refiere a que el mismo archivo puede ser ejecutado en varios sistemas operativos (Windows, Linux, Mac, etc.).
+
+---
+
+- #JVM

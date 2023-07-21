@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#7300ff",
     "recentlyUsedIcons": [
+      "FasPaintRoller",
       "SiAbstract",
       "RiPoliceCarFill",
       "SiHaxe",
-      "TiArrowUpRightCircle",
-      "FasWater"
+      "TiArrowUpRightCircle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -95,5 +95,6 @@
   "Desarrollo de software/Metodologias agiles/Agile.md": "TiArrowUpRightCircle",
   "Desarrollo de software/Java/Herencia.md": "SiHaxe",
   "Desarrollo de software/Java/Polimorfismo.md": "RiPoliceCarFill",
-  "Desarrollo de software/Java/Clases abstractas.md": "SiAbstract"
+  "Desarrollo de software/Java/Clases abstractas.md": "SiAbstract",
+  "Desarrollo de software/Java/Interfaces.md": "FasPaintRoller"
 }

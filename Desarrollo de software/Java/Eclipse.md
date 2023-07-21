@@ -18,7 +18,7 @@ banner_y: 0.468
 
 6. **Configuración inicial**: Una vez que hayas seleccionado una carpeta de trabajo, Eclipse se abrirá y te presentará una pantalla de bienvenida. Puedes personalizar tu configuración inicial según tus preferencias o simplemente seleccionar la opción predeterminada para comenzar.
 
-# Primeros pasos en Eclipse
+## Primeros pasos en Eclipse
 
 1) Cuando iniciamos Eclipse, nos pedirá que seleccionemos un " workspace ", que es donde se almacenarán tus proyectos. Si deseas personalizar esto, haz clic en Examinar ... y selecciona tu carpeta. 
 
@@ -50,7 +50,7 @@ banner_y: 0.468
 
 10) Para ejecutar nuestro código, en la parte superior de Eclipse, haz clic en Run, luego en Run As y elige Java Application.
 
-## Preguntas
+### Preguntas
 
 + ==Podemos programar en Java usando editores de texto e IDEs. En este contexto, tenemos las siguientes declaraciones:==
 	1. Un IDE es un entorno de desarrollo integrado que centraliza en un solo lugar el compilador del lenguaje utilizado, el editor de texto, la documentación, la base de datos y todo lo que gira en torno a la creación de aplicaciones.
@@ -64,3 +64,7 @@ banner_y: 0.468
 	+ Ejecutamos nuestro programa en Eclipse a través del menú Run -> Run as -> Java Application. Incluso hay una tecla de acceso directo, que se muestra durante la opción que varía según su sistema operativo.
 	+ Dentro de un proyecto Java, creamos una nueva clase a través de la opción de menú File -> New -> Class.
 	  Si el proyecto no es un proyecto Java, la opción Clase no estará disponible, ¡mantente atento!
+
+---
+
+- #IDE

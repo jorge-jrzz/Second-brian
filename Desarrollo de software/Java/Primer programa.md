@@ -4,7 +4,7 @@ banner: "![[the-eagle-nebula_9467314848_o.jpg]]"
 banner_y: 0.696
 ---
 
-# ¿Que son la JVM, JRE y JDK?
+## ¿Que son la JVM, JRE y JDK?
 
 - La **JVM** (Java Virtual Machine) es una máquina virtual que interpreta y ejecuta el bytecode Java. Proporciona un entorno de ejecución independiente de la plataforma y es responsable de cargar, verificar y ejecutar el código Java. La JVM se encarga de la gestión de memoria, la ejecución del programa y la optimización del código. Es el componente clave para ejecutar aplicaciones Java en diferentes sistemas operativos y arquitecturas de hardware.
 
@@ -22,12 +22,11 @@ En resumen, la JVM es responsable de ejecutar el bytecode Java, el JRE proporcio
 
 ![[JDK.png]]
 
-# Configurar Java
+## Configurar Java
 
-### <mark class="hltr-green">Linux</mark>
+### Linux
 
 En la terminal, ejecutamos el siguiente comando para actualizar la lista de paquetes disponibles para descargar en los repositorios del sistema:
-
 ```bash
 sudo apt update
 ```
@@ -35,98 +34,81 @@ sudo apt update
 ![img](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/linux1.png)
 
 Una vez hecho esto, instalaremos la versión 17 del JDK mediante el siguiente comando:
-
 ```bash
 sudo apt install openjdk-17-jdk
 ```
 
-![img linux2](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/linux2.png)
+![img linux2 | 600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/linux2.png)
 
 De esta manera, el sistema descargará e instalará el paquete OpenJDK 17 JDK, lo que permitirá al usuario comenzar a desarrollar aplicaciones Java en Linux. Después de finalizar este proceso de instalación, ahora necesitamos configurar la variable de entorno JAVA_HOME, que se utiliza para indicar la ruta de instalación del JDK. Esto es necesario para utilizar los recursos del JDK, como javac.
 
 Para ello, ejecutamos el comando sudo update-alternatives --config java, que mostrará la ruta donde se instaló el JDK.
-
-![img](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/linux3.png)
+![img | 600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/linux3.png)
 
 Ahora, copiamos esta ruta hasta /bin, por ejemplo: /usr/lib/jvm/java-17-openjdk-amd64/bin, y en tu terminal escribe el comando: export JAVA_HOME= seguido de la ruta que copiaste de la instalación del JDK, sin dejar espacios.
-
 Por ejemplo:
-
 ```bash
 export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64/bin
 ```
 
-![img](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/linux4.png)
+![img | 600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/linux4.png)
 
 Presionamos la tecla "enter" y listo, el JDK está instalado y configurado. Para probarlo, escribe los siguientes comandos en la terminal:
-
 ```bash
 javac -version
 java -version
 ```
 
-![Img linux5.png](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/linux5.png)
+![Img linux5.png | 600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/linux5.png)
 
-### <mark class="hltr-green">Mac</mark>
+### Mac
 
 1) Para instalar en Mac, puedes acceder al sitio web de Oracle ([Java Downloads | Oracle](https://www.oracle.com/java/technologies/downloads/)) o buscar en el navegador "Java Download Oracle" y acceder al primer enlace.
 
 2) Ahora, necesitamos elegir la versión de Java.
-
-![](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/1e3.png)
+	![| 600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/1e3.png)
 
 3) Selecciona Mac como sistema operativo y realiza la descarga.
-
-![](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/2.png)
+	![600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/2.png)
 
 ### Windows
 
 1) Para instalar en Windows, puedes acceder al sitio web de Oracle([Java Downloads | Oracle](https://www.oracle.com/java/technologies/downloads/)) o buscar en el navegador "Java Download Oracle" y acceder al primer enlace.
 
 2) Ahora, necesitamos elegir la versión de Java. En este curso utilizaremos Java 17 LTS, que es la versión de soporte a largo plazo más reciente para la plataforma Java SE.
-
-![](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/1e3.png)
+	![600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/1e3.png)
 
 3) Selecciona Windows como sistema operativo y realiza la descarga.
-
-![](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/4.png)
+	![600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/4.png)
 
 4) Una vez descargado, ejecuta el instalador y continúa con la instalación.
-
-![](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/5.png)
-
-![](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/6.png)
-
-![](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/7.png)
+	![600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/5.png)
+	![600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/6.png)
+	![600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/7.png)
 
 5) Después de la instalación, vamos a probar nuestro Java. Para hacer esto, utilizaremos la ventana de comandos. Prueba los siguientes comandos y verifica si todo ha salido como se esperaba
+	![600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/8.png)
 
-![](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/8.png)
-
-Configuración de **la variable PATH en Windows**:
+#### Configuración de **la variable PATH en Windows**:
 
 1) Ve al panel de control y busca "Sistema", luego haz clic en "Configuración avanzada del sistema".
-
-![](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/img1.png)
+	![600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/img1.png)
 
 2) En la pestaña "Avanzado", haz clic en "Variables de entorno".
-
-![](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/img2.png)
+	![600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/img2.png)
 
 3) Ahora se abrirá una nueva ventana en la parte inferior de la pantalla, selecciona la variable de entorno llamada "Path" y haz clic en "Editar".
-
-![](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/img3.png)
+	![600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/img3.png)
 
 4) En esta nueva ventana, haz clic en el botón "Nuevo" y en la línea que se ha seleccionado, coloca la ruta hacia el directorio "bin" dentro de la carpeta "jdk", que se encuentra dentro de la carpeta "Java".
-
-![](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/img4.png)
+	![600](https://caelum-online-public.s3.amazonaws.com/1736-java/Imagens+JDK/img4.png)
 
 5) Una vez hecho esto, cierra la ventana de comandos y ábrela nuevamente. Prueba los siguientes comandos:
+	```bash
+	java -version
+	javac -version
+	```
 
-```bash
-java -version
-javac -version
-```
 
 # Primer programa en Java
 
@@ -143,7 +125,6 @@ javac -version
 	```
 
 3) Nuestro programa aún no compila, para que funcione, se coloca el método ==main==, no te preocupes por el método `Main` ahora, durante el curso veremos los detalles y entenderemos este método. Tendremos un código como este:
-
 	```java
 	public class Programa {
 	
@@ -172,7 +153,8 @@ Cuando escribimos solo Java, estamos invocando la máquina virtual para interpre
 
 Después de eso, tendremos la frase `Hola mundo`.
 
-# ¿Cómo funcionan las versiones en Java?
+
+## ¿Cómo funcionan las versiones en Java?
 
 Java es un lenguaje de programación que se actualiza periódicamente por Oracle, la empresa responsable de su desarrollo. Cada nueva versión de Java trae consigo nuevas características, mejoras de rendimiento, correcciones de errores y actualizaciones de seguridad. Estas versiones se numeran, siguiendo un patrón específico.
 
@@ -192,7 +174,7 @@ Al actualizar a una nueva versión de Java, es importante tener en cuenta la com
 
 Además, es posible que coexistan diferentes versiones de Java en un sistema, lo que permite que las aplicaciones se ejecuten en versiones específicas de la JVM (Java Virtual Machine) para garantizar la compatibilidad con el código existente.
 
-## Preguntas
+### Preguntas
 
 + ==¿Cuál de las siguientes afirmaciones son correctas acerca de JRE y JDK?==
 
@@ -259,3 +241,8 @@ Además, es posible que coexistan diferentes versiones de Java en un sistema, lo
     ```bash
     java Programa
     ```
+
+---
+
+- #JVM 
+- #configuracion_lenguaje
