@@ -546,26 +546,3 @@ print(pila)  # ['elemento 1', 'elemento 2']
 ```
 
 En este ejemplo, creamos una lista vacía que actuará como pila, y luego agregamos tres elementos utilizando el método **`append()`**. Luego, eliminamos el último elemento agregado a la pila utilizando el método **`pop()`** sin argumentos.
-
-## Expresiones Lambda
-
-Las expresiones lambda, también conocidas como funciones lambda, son una forma concisa de definir funciones en Python. Una función lambda es una ***función anónima*** que se puede definir en una sola línea de código y que puede tomar cualquier número de argumentos, pero solo puede tener una expresión como cuerpo.
-La sintaxis básica de una función lambda es la siguiente:
-```python
-lambda argumentos: expresión
-```
-
-Donde `argumentos` es una lista separada por comas de los argumentos que la función lambda puede tomar, y `expresión` es una única expresión que se ejecuta cuando se llama a la función lambda.
-Por ejemplo, aquí hay una función lambda que toma dos argumentos y devuelve su suma:
-```python
-suma = lambda x, y: x + y
-```
-
-Esta función lambda es equivalente a la siguiente función definida con la sintaxis regular:
-```python
-def suma(x, y):
-	return x + y
-```
-
-En resumen, las expresiones lambda son una forma concisa de definir funciones anónimas en Python. Se utilizan comúnmente en combinación con otras funciones para crear un código más legible y conciso.
-Para más informacion sobre los diferentes tipos y usos de las funciones: [[Funciones]].

@@ -1,7 +1,7 @@
 ---
 banner_icon: ⛲
-banner: "![[grail_29250978540_o.jpg]]"
-banner_y: 0.584
+banner: "![[ed-white-performs-first-us-spacewalk_9449352803_o.jpg]]"
+banner_y: 0.52
 ---
 
 # Funciones
@@ -157,3 +157,27 @@ _ = resultado
 En resumen, la variable **`_`** se utiliza para indicar que un valor no se va a utilizar más adelante en el código. Es una convención de Python y no afecta el comportamiento del programa.
 
 Para saber mas sobre estructuras de control de flujo como lo es la estructura **`for`** visitar la siguiente pagina: [[Control de flujo en py]].
+
+
+## Expresiones Lambda
+
+Las expresiones lambda, también conocidas como funciones lambda, son una forma concisa de definir funciones en Python. Una función lambda es una **_función anónima_** que se puede definir en una sola línea de código y que puede tomar cualquier número de argumentos, pero solo puede tener una expresión como cuerpo.  
+La sintaxis básica de una función lambda es la siguiente:
+```python
+lambda argumentos: expresión
+```
+
+Donde `argumentos` es una lista separada por comas de los argumentos que la función lambda puede tomar, y `expresión` es una única expresión que se ejecuta cuando se llama a la función lambda.  
+Por ejemplo, aquí hay una función lambda que toma dos argumentos y devuelve su suma:
+```python
+suma = lambda x, y: x + y
+```
+
+Esta función lambda es equivalente a la siguiente función definida con la sintaxis regular:
+```python
+def suma(x, y):
+	return x + y
+```
+
+En resumen, las expresiones lambda son una forma concisa de definir funciones anónimas en Python. Se utilizan comúnmente en combinación con otras funciones para crear un código más legible y conciso.  
+Para más información sobre los diferentes tipos y usos de las funciones: [Funciones](app://obsidian.md/Funciones).

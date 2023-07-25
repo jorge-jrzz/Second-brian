@@ -38,7 +38,8 @@ Algunos de los conceptos clave en la POO incluyen:
 - **Flexibilidad y extensibilidad**: El polimorfismo permite tratar objetos de diferentes clases de manera uniforme, lo que brinda flexibilidad y extensibilidad al código.
 
 ###### <mark class="hltr-orange">Desventajas de la POO:</mark>
-- **Curva de aprendizaje**: La POO puede requerir un enfoque conceptual y un cambio de mentalidad para aquellos acostumbrados a la programación secuencial.
+- **Curva de aprendizaje**: La POO puede requerir un enfoque conceptual y un c
+- ambio de mentalidad para aquellos acostumbrados a la programación secuencial.
 - **Overhead**: La estructura y abstracción adicional en la POO pueden resultar en un ligero aumento en el consumo de recursos y rendimiento en comparación con un enfoque secuencial más eficiente.
 - **Complejidad potencial**: La modularidad y flexibilidad de la POO pueden dar lugar a un diseño complicado y una mayor complejidad si no se planifica y gestiona adecuadamente.
 
