@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e376d89796d8480",
+        "id": "9b7f9aa6e2dce519",
         "type": "tabs",
         "children": [
           {
-            "id": "378088f678b02d0a",
+            "id": "e30ffb031923b8ae",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 212.5
   },
   "right": {
     "id": "5c2c6a8f1122a136",
@@ -130,7 +130,7 @@
             }
           },
           {
-            "id": "1da07a2dd63ff531",
+            "id": "98ae464201c08671",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -146,62 +146,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "378088f678b02d0a",
+  "active": "fb11f2cb5e5badef",
   "lastOpenFiles": [
+    "Emprendimiento/Images/De la idea al plan de negocios/CLV_CAC.png",
+    "Emprendimiento/Images/De la idea al plan de negocios/Model_cavas.png",
+    "Emprendimiento/Images/De la idea al plan de negocios/Plan_negocios.png",
+    "Desarrollo de software/ONE.md",
     "Emprendimiento/De la idea al plan de negocios.md",
+    "Emprendimiento/Images/De la idea al plan de negocios",
     "Emprendimiento/Lean Startup.md",
-    "Desarrollo de software/Java/POO.md",
-    "Desarrollo de software/Python/0 - Python.md",
-    "Desarrollo de software/Python/Clases.md",
-    "Desarrollo de software/Python/Funciones.md",
-    "Desarrollo de software/Python/Tipos avanzados.md",
-    "Desarrollo de software/Java/Metodos.md",
-    "Desarrollo de software/Java/0 - Java.md",
-    "Desarrollo de software/Images/Java/Instancias.png",
-    "Pasted image 20230721132426.png",
+    "Desarrollo de software/Desarrollo de software.md",
     "Desarrollo de software/Java/Interfaces.md",
-    "Desarrollo de software/Java/Tipos y variables.md",
-    "Desarrollo de software/Java/Eclipse.md",
-    "Desarrollo de software/Java/Primer programa.md",
-    "Desarrollo de software/Java/JVM.md",
     "Desarrollo de software/Images/Java/Interface.png",
-    "Desarrollo de software/Java/Herencia.md",
-    "Desarrollo de software/Java/Clases abstractas.md",
-    "Universidad/Estructuras de datos lineales/Pilas.md",
-    "Universidad/Estructuras de datos lineales/0 - Estructuras de datos lineales.md",
     "Universidad/Estructuras de datos lineales/Listas enlazadas.md",
-    "Universidad/Estructuras de datos lineales/Alojamiento de memoria en C.md",
-    "Universidad/Estructuras de datos lineales/Administracion de memoria.md",
-    "Desarrollo de software/Java/Polimorfismo.md",
+    "Desarrollo de software/Java/Tipos y variables.md",
+    "Desarrollo de software/Java/0 - Java.md",
+    "Universidad/Estructuras de datos lineales/Pilas.md",
+    "Desarrollo de software/Python/Tipos avanzados.md",
+    "Desarrollo de software/Python/0 - Python.md",
     "Gallery/the-apollo-11-prime-crew_9460200452_o.jpg",
     "Gallery/spiro-agnew-and-lyndon-johnson-watch-the-apollo-11-liftoff_9460201254_o.jpg",
     "Gallery/president-nixon-visits-apollo-11-crew-in-quarantine_7876061882_o.jpg",
     "Gallery/president-george-bush-and-apollo-11-astronauts_9458160553_o.jpg",
     "Gallery/premiere-apollo-11-first-steps-edition_47804504192_o.jpg",
     "Gallery/portrait-of-astronaut-neil-a-armstrong-commander-of-the-apollo-11-mission_7875592982_o.jpg",
-    "Gallery/nixon-telephones-armstrong-on-the-moon_9460942988_o.jpg",
-    "Desarrollo de software/Desarrollo de software.md",
-    "Desarrollo de software/Java/Composicion de objetos.md",
-    "Herencia.png.sb-4cad9731-I0Obwn",
-    "Desarrollo de software/Metodologias agiles/0 - Metodologias.md",
+    "Desarrollo de software/Java/Polimorfismo.md",
+    "Desarrollo de software/Java/Herencia.md",
+    "Desarrollo de software/Java/Clases abstractas.md",
+    "Desarrollo de software/Metodologias agiles/Agile.md",
     "Desarrollo de software/Metodologias agiles/Waterfall.md",
-    "Desarrollo de software/Metodologias agiles",
+    "Desarrollo de software/Metodologias agiles/0 - Metodologias.md",
+    "Universidad/Proyecto de ingenieria I/0 - Proyecto de ingenieria I.md",
+    "Desarrollo de software/Python/Introducción.md",
     "Desarrollo de software/Images/Metodologias_agiles",
+    "Desarrollo de software/Metodologias agiles",
+    "Desarrollo de software/Python/Tipos basicos.md",
     "Emprendimiento/Images/Lean Startup",
-    "Lean Startup",
-    "carpeta sin título",
     "Emprendimiento/Images",
     "Emprendimiento",
+    "Desarrollo de software/Java/Constructores.md",
+    "Desarrollo de software/Java/Encapsulamiento y visibilidad.md",
+    "Desarrollo de software/Python/Clases.md",
+    "Desarrollo de software/Python/Funciones.md",
+    "Desarrollo de software/Python/Control de flujo en py.md",
     "Desarrollo de software/Java/0 - Java.docx",
-    "Universidad/Images/Arquitectura de computadoras"
+    "Universidad/Images/Arquitectura de computadoras",
+    "Desarrollo de software/Images/Java/Java_Cheat_Sheet.pdf",
+    "Desarrollo de software/Images/Java"
   ]
 }
