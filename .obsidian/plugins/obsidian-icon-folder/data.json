@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#7300ff",
     "recentlyUsedIcons": [
-      "TiPlant",
-      "FasPaintRoller",
+      "TiSettingsQuestion",
       "SiAbstract",
       "RiPoliceCarFill",
-      "SiHaxe"
+      "SiHaxe",
+      "TiArrowUpRightCircle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -96,6 +96,5 @@
   "Desarrollo de software/Java/Herencia.md": "SiHaxe",
   "Desarrollo de software/Java/Polimorfismo.md": "RiPoliceCarFill",
   "Desarrollo de software/Java/Clases abstractas.md": "SiAbstract",
-  "Desarrollo de software/Java/Interfaces.md": "FasPaintRoller",
-  "Emprendimiento/De la idea al plan de negocios.md": "TiPlant"
+  "Desarrollo de software/Metodologias agiles/Gestion Agil.md": "TiSettingsQuestion"
 }
