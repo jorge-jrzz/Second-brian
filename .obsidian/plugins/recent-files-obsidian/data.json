@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "ONE",
+      "path": "Desarrollo de software/ONE.md"
+    },
+    {
+      "basename": "Try with resources",
+      "path": "Desarrollo de software/Java/Try with resources.md"
+    },
+    {
+      "basename": "0 - Java",
+      "path": "Desarrollo de software/Java/0 - Java.md"
+    },
+    {
+      "basename": "Tratamiento de excepciones",
+      "path": "Desarrollo de software/Java/Tratamiento de excepciones.md"
+    },
+    {
+      "basename": "clase_Throwable",
+      "path": "Desarrollo de software/Images/Java/clase_Throwable.png"
+    },
+    {
+      "basename": "JVM",
+      "path": "Desarrollo de software/Java/JVM.md"
+    },
+    {
+      "basename": "Primer programa",
+      "path": "Desarrollo de software/Java/Primer programa.md"
+    },
+    {
+      "basename": "Pila de ejecucion",
+      "path": "Desarrollo de software/Java/Pila de ejecucion.md"
+    },
+    {
+      "basename": "enums",
+      "path": "Desarrollo de software/Java/enums.md"
+    },
+    {
+      "basename": "ejemplo_pila_ejecucion",
+      "path": "Desarrollo de software/Images/Java/ejemplo_pila_ejecucion.png"
+    },
+    {
+      "basename": "Interfaces",
+      "path": "Desarrollo de software/Java/Interfaces.md"
+    },
+    {
       "basename": "Gestion Agil",
       "path": "Desarrollo de software/Metodologias agiles/Gestion Agil.md"
     },
@@ -29,10 +73,6 @@
       "path": "Emprendimiento/Images/De la idea al plan de negocios/Plan_negocios.png"
     },
     {
-      "basename": "ONE",
-      "path": "Desarrollo de software/ONE.md"
-    },
-    {
       "basename": "De la idea al plan de negocios",
       "path": "Emprendimiento/De la idea al plan de negocios.md"
     },
@@ -57,16 +97,8 @@
       "path": "Desarrollo de software/Java/Metodos.md"
     },
     {
-      "basename": "0 - Java",
-      "path": "Desarrollo de software/Java/0 - Java.md"
-    },
-    {
       "basename": "Instancias",
       "path": "Desarrollo de software/Images/Java/Instancias.png"
-    },
-    {
-      "basename": "Interfaces",
-      "path": "Desarrollo de software/Java/Interfaces.md"
     },
     {
       "basename": "Tipos y variables",
@@ -75,14 +107,6 @@
     {
       "basename": "Eclipse",
       "path": "Desarrollo de software/Java/Eclipse.md"
-    },
-    {
-      "basename": "Primer programa",
-      "path": "Desarrollo de software/Java/Primer programa.md"
-    },
-    {
-      "basename": "JVM",
-      "path": "Desarrollo de software/Java/JVM.md"
     },
     {
       "basename": "Interface",
