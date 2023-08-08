@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Pitch",
+      "path": "Emprendimiento/Pitch.md"
+    },
+    {
+      "basename": "Descomposición modular",
+      "path": "Universidad/Proyecto de ingenieria I/Descomposición modular.md"
+    },
+    {
+      "basename": "0 - Universidad",
+      "path": "Universidad/0 - Universidad.md"
+    },
+    {
+      "basename": "Archivos",
+      "path": "Universidad/Bases de datos/Archivos.md"
+    },
+    {
+      "basename": "0 - Proyecto de ingenieria I",
+      "path": "Universidad/Proyecto de ingenieria I/0 - Proyecto de ingenieria I.md"
+    },
+    {
+      "basename": "0 - Bases de datos",
+      "path": "Universidad/Bases de datos/0 - Bases de datos.md"
+    },
+    {
+      "basename": "0 - Estructuras de datos lineales",
+      "path": "Universidad/Estructuras de datos lineales/0 - Estructuras de datos lineales.md"
+    },
+    {
+      "basename": "De la idea al plan de negocios",
+      "path": "Emprendimiento/De la idea al plan de negocios.md"
+    },
+    {
       "basename": "ONE",
       "path": "Desarrollo de software/ONE.md"
     },
@@ -73,10 +105,6 @@
       "path": "Emprendimiento/Images/De la idea al plan de negocios/Plan_negocios.png"
     },
     {
-      "basename": "De la idea al plan de negocios",
-      "path": "Emprendimiento/De la idea al plan de negocios.md"
-    },
-    {
       "basename": "Lean Startup",
       "path": "Emprendimiento/Lean Startup.md"
     },
@@ -125,10 +153,6 @@
       "path": "Universidad/Estructuras de datos lineales/Pilas.md"
     },
     {
-      "basename": "0 - Estructuras de datos lineales",
-      "path": "Universidad/Estructuras de datos lineales/0 - Estructuras de datos lineales.md"
-    },
-    {
       "basename": "Listas enlazadas",
       "path": "Universidad/Estructuras de datos lineales/Listas enlazadas.md"
     },
@@ -159,34 +183,6 @@
     {
       "basename": "spotify",
       "path": "Desarrollo de software/Images/Metodologias_agiles/spotify.png"
-    },
-    {
-      "basename": "agile",
-      "path": "Desarrollo de software/Images/Metodologias_agiles/agile.png"
-    },
-    {
-      "basename": "Waterfall",
-      "path": "Desarrollo de software/Metodologias agiles/Waterfall.md"
-    },
-    {
-      "basename": "0 - Proyecto de ingenieria I",
-      "path": "Universidad/Proyecto de ingenieria I/0 - Proyecto de ingenieria I.md"
-    },
-    {
-      "basename": "waterfall",
-      "path": "Desarrollo de software/Images/Metodologias_agiles/waterfall.png"
-    },
-    {
-      "basename": "Introducción",
-      "path": "Desarrollo de software/Python/Introducción.md"
-    },
-    {
-      "basename": "Tipos basicos",
-      "path": "Desarrollo de software/Python/Tipos basicos.md"
-    },
-    {
-      "basename": "Constructores",
-      "path": "Desarrollo de software/Java/Constructores.md"
     }
   ],
   "omittedPaths": [],

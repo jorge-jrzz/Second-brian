@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#7300ff",
     "recentlyUsedIcons": [
-      "TiHistoryOff",
-      "RiErrorWarningFill",
-      "TiBrandStackoverflow",
-      "SiInteractjs",
-      "TiSortAscendingNumbers"
+      "FasFile",
+      "LiDatabase",
+      "IbDatabse",
+      "RiUserVoiceFill",
+      "TiPlanet"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,7 +31,6 @@
   "Desarrollo de software/Python": "SiPython",
   "Desarrollo de software/JavaScript": "SiJavascript",
   "Desarrollo de software": "FasCode",
-  "English": "TiLanguage",
   "Universidad": "TiSchool",
   "Desarrollo de software/Images": "FarImages",
   "Desarrollo de software/Python/Clases.md": "FasCube",
@@ -50,7 +49,6 @@
   "Universidad/Proyecto de ingenieria I/Diseño de Software.md": "SiPeakdesign",
   "Universidad/Proyecto de ingenieria I/Prototipos.md": "FasRobot",
   "Universidad/Proyecto de ingenieria I/Fases del desarrollo de Software.md": "RiFlowChart",
-  "English/Images": "FarImages",
   "Universidad/Estructuras de datos no lineales/Introduccion.md": "SiOpensourceinitiative",
   "Universidad/Estructuras de datos no lineales/Arboles generales.md": "SiGumtree",
   "Universidad/Estructuras de datos no lineales/Arboles binarios.md": "TiBinaryTree2",
@@ -101,5 +99,9 @@
   "Desarrollo de software/Java/enums.md": "TiSortAscendingNumbers",
   "Desarrollo de software/Java/Pila de ejecucion.md": "TiBrandStackoverflow",
   "Desarrollo de software/Java/Tratamiento de excepciones.md": "RiErrorWarningFill",
-  "Desarrollo de software/Java/Try with resources.md": "TiHistoryOff"
+  "Desarrollo de software/Java/Try with resources.md": "TiHistoryOff",
+  "Emprendimiento/De la idea al plan de negocios.md": "TiPlanet",
+  "Emprendimiento/Pitch.md": "RiUserVoiceFill",
+  "Universidad/Bases de datos": "LiDatabase",
+  "Universidad/Bases de datos/Archivos.md": "FasFile"
 }
