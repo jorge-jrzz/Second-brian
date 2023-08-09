@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "0 - Universidad",
+      "path": "Universidad/0 - Universidad.md"
+    },
+    {
+      "basename": "ONE",
+      "path": "Desarrollo de software/ONE.md"
+    },
+    {
       "basename": "Pitch",
       "path": "Emprendimiento/Pitch.md"
     },
     {
-      "basename": "Descomposición modular",
-      "path": "Universidad/Proyecto de ingenieria I/Descomposición modular.md"
+      "basename": "0 - Analisis y diseño orientado a objetos",
+      "path": "Universidad/Analisis y diseño orientado a objetos/0 - Analisis y diseño orientado a objetos.md"
     },
     {
-      "basename": "0 - Universidad",
-      "path": "Universidad/0 - Universidad.md"
+      "basename": "0 - Bases de datos",
+      "path": "Universidad/Bases de datos/0 - Bases de datos.md"
+    },
+    {
+      "basename": "Business_Model_You_Lienzo",
+      "path": "Emprendimiento/Images/Pitch/Business_Model_You_Lienzo.png"
+    },
+    {
+      "basename": "Descomposición modular",
+      "path": "Universidad/Proyecto de ingenieria I/Descomposición modular.md"
     },
     {
       "basename": "Archivos",
@@ -21,20 +37,12 @@
       "path": "Universidad/Proyecto de ingenieria I/0 - Proyecto de ingenieria I.md"
     },
     {
-      "basename": "0 - Bases de datos",
-      "path": "Universidad/Bases de datos/0 - Bases de datos.md"
-    },
-    {
       "basename": "0 - Estructuras de datos lineales",
       "path": "Universidad/Estructuras de datos lineales/0 - Estructuras de datos lineales.md"
     },
     {
       "basename": "De la idea al plan de negocios",
       "path": "Emprendimiento/De la idea al plan de negocios.md"
-    },
-    {
-      "basename": "ONE",
-      "path": "Desarrollo de software/ONE.md"
     },
     {
       "basename": "Try with resources",

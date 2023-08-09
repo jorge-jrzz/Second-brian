@@ -7,6 +7,7 @@ Espero una experiencia educativa enriquecedora, con acceso a recursos actualizad
 
 ### Publicación en Linkedin para compartir la culminación de un curso
 
-¡Emocionado por compartir que he obtenido una nueva certificación \[Nombre del curso]🎓🌟 Esta experiencia de aprendizaje me ha permitido fortalecer mis habilidades profesionales.  
+¡Emocionado por compartir que he obtenido una nueva certificación, \[Nombre del curso]🎓🌟 
+Esta experiencia de aprendizaje me ha permitido fortalecer mis habilidades profesionales.  
 Agradezco a @Alura Latam por brindarme esta oportunidad de crecimiento y a mis mentores por su guía y apoyo en este viaje de aprendizaje.  
 \#helloONEG5 \#OracleNextEducation

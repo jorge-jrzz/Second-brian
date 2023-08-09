@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58cb5cccdfddd63f",
+        "id": "ffb26efe47a013b4",
         "type": "tabs",
         "children": [
           {
-            "id": "19d9602b84712b08",
+            "id": "da8aeffb69957a25",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,14 +155,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb11f2cb5e5badef",
+  "active": "1da07a2dd63ff531",
   "lastOpenFiles": [
-    "Emprendimiento/Pitch.md",
-    "Universidad/Proyecto de ingenieria I/Descomposición modular.md",
     "Universidad/0 - Universidad.md",
+    "Desarrollo de software/ONE.md",
+    "Emprendimiento/Pitch.md",
+    "Universidad/Analisis y diseño orientado a objetos/0 - Analisis y diseño orientado a objetos.md",
+    "Universidad/Bases de datos/0 - Bases de datos.md",
+    "Universidad/Analisis y diseño orientado a objetos",
+    "Emprendimiento/Images/Pitch/Business_Model_You_Lienzo.png",
+    "Universidad/Proyecto de ingenieria I/Descomposición modular.md",
     "Universidad/Bases de datos/Archivos.md",
     "Universidad/Proyecto de ingenieria I/0 - Proyecto de ingenieria I.md",
-    "Universidad/Bases de datos/0 - Bases de datos.md",
     "Universidad/Estructuras de datos lineales/0 - Estructuras de datos lineales.md",
     "English/Verb lists.md",
     "English/0 - English.md",
@@ -173,7 +177,6 @@
     "Emprendimiento/Images/Pitch",
     "Emprendimiento/Images/carpeta sin título",
     "Emprendimiento/De la idea al plan de negocios.md",
-    "Desarrollo de software/ONE.md",
     "Desarrollo de software/Java/Try with resources.md",
     "Desarrollo de software/Java/0 - Java.md",
     "Desarrollo de software/Java/Tratamiento de excepciones.md",
@@ -194,14 +197,10 @@
     "Desarrollo de software/Images/Java/Interface.png",
     "Desarrollo de software/Images/Metodologias_agiles/kaizen_kaikakun.png",
     "Pasted image 20230728172600.png.~tmp",
-    "Desarrollo de software/Images/Metodologias_agiles/VUCA.png",
     "Desarrollo de software/Java/Polimorfismo.md",
-    "Desarrollo de software/Java/Herencia.md",
-    "Desarrollo de software/Java/Clases abstractas.md",
     "Desarrollo de software/Metodologias agiles",
     "Desarrollo de software/Images/Metodologias_agiles",
     "Emprendimiento/Images/Lean Startup",
-    "Lean Startup",
-    "carpeta sin título"
+    "Lean Startup"
   ]
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#7300ff",
     "recentlyUsedIcons": [
+      "TiFileAnalytics",
       "FasFile",
       "LiDatabase",
       "IbDatabse",
-      "RiUserVoiceFill",
-      "TiPlanet"
+      "RiUserVoiceFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -103,5 +103,6 @@
   "Emprendimiento/De la idea al plan de negocios.md": "TiPlanet",
   "Emprendimiento/Pitch.md": "RiUserVoiceFill",
   "Universidad/Bases de datos": "LiDatabase",
-  "Universidad/Bases de datos/Archivos.md": "FasFile"
+  "Universidad/Bases de datos/Archivos.md": "FasFile",
+  "Universidad/Analisis y diseño orientado a objetos": "TiFileAnalytics"
 }

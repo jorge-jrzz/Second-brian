@@ -62,3 +62,18 @@ Aparte de ayudar a que las personas tomen conciencia de ellas mismas, del valor 
 7. _¿A quien ayudas?_
 	- ¿Hay personas que dependen de ti?
 	- ¿Cuales son los motivadores sociales para ganar el trabajo? 
+
+
+En resumen, Business Model You es una herramienta creada con el objetivo de superar la dificultad que las personas tiene de hablar o de escribir sobre si mismas. El "Modelo de Negocio Tú" tiene un formato idéntico al Canvas (Herramienta utilizada para estructurar tu Modelo de Negocio) sin embargo, las preguntas son diferentes.
+
+![[Business_Model_You_Lienzo.png| 450]]
+
+Entonces para realizar nuestro pitch:
+- Completa las preguntas del Business Model You.
+- Adapta tus respuestas en formato de texto.
+- Estudia el resumen.
+- Practica al frente de la cámara.
+- Al momento de grabar, habla con clareza y precisión.
+- Es importante que resaltes las partes que consideras más importantes en tu guión (o texto).
+- Organiza la información más impactante en el primer párrafo.
+- En los siguientes párrafos organiza el resto de la información cronológicamente.
