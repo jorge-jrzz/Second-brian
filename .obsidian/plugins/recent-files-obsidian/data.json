@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Introduccion ADOO",
+      "path": "Introduccion ADOO.md"
+    },
+    {
+      "basename": "0 - Analisis y diseño orientado a objetos",
+      "path": "Universidad/Analisis y diseño orientado a objetos/0 - Analisis y diseño orientado a objetos.md"
+    },
+    {
+      "basename": "0 - Estructuras de datos lineales",
+      "path": "Universidad/Estructuras de datos lineales/0 - Estructuras de datos lineales.md"
+    },
+    {
+      "basename": "0 - Estructuras de datos no lineales",
+      "path": "Universidad/Estructuras de datos no lineales/0 - Estructuras de datos no lineales.md"
+    },
+    {
+      "basename": "Introduccion",
+      "path": "Universidad/Estructuras de datos no lineales/Introduccion.md"
+    },
+    {
       "basename": "0 - Universidad",
       "path": "Universidad/0 - Universidad.md"
     },
@@ -9,16 +29,44 @@
       "path": "Desarrollo de software/ONE.md"
     },
     {
-      "basename": "Pitch",
-      "path": "Emprendimiento/Pitch.md"
+      "basename": "Business Agility",
+      "path": "Emprendimiento/Business Agility.md"
     },
     {
-      "basename": "0 - Analisis y diseño orientado a objetos",
-      "path": "Universidad/Analisis y diseño orientado a objetos/0 - Analisis y diseño orientado a objetos.md"
+      "basename": "Waterfall",
+      "path": "Desarrollo de software/Metodologias agiles/Waterfall.md"
+    },
+    {
+      "basename": "Gestion Agil",
+      "path": "Desarrollo de software/Metodologias agiles/Gestion Agil.md"
+    },
+    {
+      "basename": "Agile",
+      "path": "Desarrollo de software/Metodologias agiles/Agile.md"
+    },
+    {
+      "basename": "0 - Metodologias",
+      "path": "Desarrollo de software/Metodologias agiles/0 - Metodologias.md"
+    },
+    {
+      "basename": "estructura_empresa",
+      "path": "Emprendimiento/Images/Business Agility/estructura_empresa.png"
     },
     {
       "basename": "0 - Bases de datos",
       "path": "Universidad/Bases de datos/0 - Bases de datos.md"
+    },
+    {
+      "basename": "Introduccion a las Bases de Datos",
+      "path": "Universidad/Bases de datos/Introduccion a las Bases de Datos.md"
+    },
+    {
+      "basename": "estructura_organizacional",
+      "path": "Emprendimiento/Images/Business Agility/estructura_organizacional.png"
+    },
+    {
+      "basename": "Pitch",
+      "path": "Emprendimiento/Pitch.md"
     },
     {
       "basename": "Business_Model_You_Lienzo",
@@ -35,10 +83,6 @@
     {
       "basename": "0 - Proyecto de ingenieria I",
       "path": "Universidad/Proyecto de ingenieria I/0 - Proyecto de ingenieria I.md"
-    },
-    {
-      "basename": "0 - Estructuras de datos lineales",
-      "path": "Universidad/Estructuras de datos lineales/0 - Estructuras de datos lineales.md"
     },
     {
       "basename": "De la idea al plan de negocios",
@@ -83,14 +127,6 @@
     {
       "basename": "Interfaces",
       "path": "Desarrollo de software/Java/Interfaces.md"
-    },
-    {
-      "basename": "Gestion Agil",
-      "path": "Desarrollo de software/Metodologias agiles/Gestion Agil.md"
-    },
-    {
-      "basename": "0 - Metodologias",
-      "path": "Desarrollo de software/Metodologias agiles/0 - Metodologias.md"
     },
     {
       "basename": "0 - Python",
@@ -163,34 +199,6 @@
     {
       "basename": "Listas enlazadas",
       "path": "Universidad/Estructuras de datos lineales/Listas enlazadas.md"
-    },
-    {
-      "basename": "Alojamiento de memoria en C",
-      "path": "Universidad/Estructuras de datos lineales/Alojamiento de memoria en C.md"
-    },
-    {
-      "basename": "Administracion de memoria",
-      "path": "Universidad/Estructuras de datos lineales/Administracion de memoria.md"
-    },
-    {
-      "basename": "Polimorfismo",
-      "path": "Desarrollo de software/Java/Polimorfismo.md"
-    },
-    {
-      "basename": "Desarrollo de software",
-      "path": "Desarrollo de software/Desarrollo de software.md"
-    },
-    {
-      "basename": "Composicion de objetos",
-      "path": "Desarrollo de software/Java/Composicion de objetos.md"
-    },
-    {
-      "basename": "Agile",
-      "path": "Desarrollo de software/Metodologias agiles/Agile.md"
-    },
-    {
-      "basename": "spotify",
-      "path": "Desarrollo de software/Images/Metodologias_agiles/spotify.png"
     }
   ],
   "omittedPaths": [],

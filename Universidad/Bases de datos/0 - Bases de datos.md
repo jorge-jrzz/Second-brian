@@ -8,7 +8,7 @@ banner_y: 0.356
 
 |                         Tema                         | Páginas        |
 |:----------------------------------------------------:| -------------- |
-|      **1. Introducción a las bases de datos.**       | - [[Archivos]] |
+|      **1. Introducción a las bases de datos.**       | - [[Archivos]] <br> - [[Introduccion a las Bases de Datos]] |
 |             **2. Modelos de los datos.**             |                |
 | **3. Introducción al lenguaje de base de datos SQL** |                |
 |         **4. Consultas y actualizaciones.**          |                |

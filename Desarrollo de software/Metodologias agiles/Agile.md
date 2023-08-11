@@ -1,6 +1,6 @@
 ---
-banner: "![[lunar-prospector-in-clean-room_9460230002_o.jpg]]"
-banner_y: 0.556
+banner: "![[first-view-of-earth-from-moon_5052127179_o.jpg]]"
+banner_y: 0.272
 banner_icon: 🗡️
 ---
 
