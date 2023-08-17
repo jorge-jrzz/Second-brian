@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#7300ff",
     "recentlyUsedIcons": [
+      "FasFaceGrinTongue",
+      "TiPackage",
+      "TiMoodSuprised",
       "FarHandBackFist",
-      "FasBusinessTime",
-      "TiFileAnalytics",
-      "FasFile",
-      "LiDatabase"
+      "FasBusinessTime"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -106,5 +106,8 @@
   "Universidad/Bases de datos/Archivos.md": "FasFile",
   "Universidad/Analisis y diseño orientado a objetos": "TiFileAnalytics",
   "Emprendimiento/Business Agility.md": "FasBusinessTime",
-  "Universidad/Bases de datos/Introduccion a las Bases de Datos.md": "FarHandBackFist"
+  "Universidad/Bases de datos/Introduccion a las Bases de Datos.md": "FarHandBackFist",
+  "Universidad/Analisis y diseño orientado a objetos/Introduccion ADOO.md": "TiMoodSuprised",
+  "Desarrollo de software/Java/Paquetes.md": "TiPackage",
+  "Desarrollo de software/Java/Java.lang.md": "FasFaceGrinTongue"
 }

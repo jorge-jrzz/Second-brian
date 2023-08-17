@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a06de89f8c45d5e1",
+        "id": "e802170a09e76f4e",
         "type": "tabs",
         "children": [
           {
-            "id": "0154b1be42723743",
+            "id": "ca845cea908d1933",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#IDE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desarrollo de software/Java/0 - Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desarrollo de software/Java/0 - Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Desarrollo de software/Java/0 - Java.md"
+              }
             }
           },
           {
@@ -158,41 +162,41 @@
   },
   "active": "fb11f2cb5e5badef",
   "lastOpenFiles": [
-    "Introduccion ADOO.md",
+    "Desarrollo de software/Java/0 - Java.md",
+    "Desarrollo de software/Java/Java.lang.md",
+    "Desarrollo de software/Java/Paquetes.md",
+    "cloud cumputing.md",
+    "Universidad/Analisis y diseño orientado a objetos/Introduccion ADOO.md",
+    "Desarrollo de software/ONE.md",
+    "Untitled.md",
+    "Desarrollo de software/Java/Encapsulamiento y visibilidad.md",
+    "Universidad/Bases de datos/Introduccion a las Bases de Datos.md",
+    "Universidad/Bases de datos/0 - Bases de datos.md",
+    "Desarrollo de software/Java/POO.md",
+    "Universidad/Bases de datos/Archivos.md",
+    "Universidad/0 - Universidad.md",
     "Universidad/Analisis y diseño orientado a objetos/0 - Analisis y diseño orientado a objetos.md",
     "Universidad/Estructuras de datos lineales/0 - Estructuras de datos lineales.md",
     "Universidad/Estructuras de datos no lineales/0 - Estructuras de datos no lineales.md",
     "Universidad/Estructuras de datos no lineales/Introduccion.md",
-    "Universidad/0 - Universidad.md",
-    "Desarrollo de software/ONE.md",
     "Emprendimiento/Business Agility.md",
     "Desarrollo de software/Metodologias agiles/Waterfall.md",
     "Desarrollo de software/Metodologias agiles/Gestion Agil.md",
     "Desarrollo de software/Metodologias agiles/Agile.md",
     "Desarrollo de software/Metodologias agiles/0 - Metodologias.md",
     "Emprendimiento/Images/Business Agility/estructura_empresa.png",
-    "Universidad/Bases de datos/0 - Bases de datos.md",
-    "Universidad/Bases de datos/Introduccion a las Bases de Datos.md",
     "Emprendimiento/Images/Business Agility",
     "Emprendimiento/Images/Business Agility/estructura_organizacional.png",
     "Emprendimiento/Pitch.md",
     "Universidad/Analisis y diseño orientado a objetos",
     "Emprendimiento/Images/Pitch/Business_Model_You_Lienzo.png",
     "Universidad/Proyecto de ingenieria I/Descomposición modular.md",
-    "Universidad/Bases de datos/Archivos.md",
     "Universidad/Proyecto de ingenieria I/0 - Proyecto de ingenieria I.md",
     "English/Verb lists.md",
-    "English/0 - English.md",
-    "English/B1/Lifestyle.md",
-    "English/B1/0 - Temas.md",
     "Universidad/Bases de datos",
     "Emprendimiento/Images/Pitch/Business Model You.png",
     "Emprendimiento/Images/Pitch",
     "Emprendimiento/Images/carpeta sin título",
-    "Emprendimiento/De la idea al plan de negocios.md",
-    "Desarrollo de software/Java/Try with resources.md",
-    "Desarrollo de software/Java/0 - Java.md",
-    "Desarrollo de software/Java/Tratamiento de excepciones.md",
     "Desarrollo de software/Images/Java/clase_Throwable.png",
     "Pasted image 20230803231028.png",
     "Desarrollo de software/Images/Java/ejemplo_pila_ejecucion.png",

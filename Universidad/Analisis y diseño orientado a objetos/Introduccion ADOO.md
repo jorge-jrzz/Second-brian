@@ -10,3 +10,5 @@ Productos de software
 Productos genericos
 + Sistemas independientes que se comercializan y venden a cualquier cliente que desee comprarlos
 	+ Ejemplo: software para PC, como programas graficos, herramientas de gestion de proyectos; Software 
+
+Fundamentod de ingenieria de software 
