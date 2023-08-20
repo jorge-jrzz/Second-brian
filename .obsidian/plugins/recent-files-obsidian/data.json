@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SCRUM",
+      "path": "SCRUM.md"
+    },
+    {
       "basename": "0 - Java",
       "path": "Desarrollo de software/Java/0 - Java.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Eclipse",
       "path": "Desarrollo de software/Java/Eclipse.md"
-    },
-    {
-      "basename": "Interface",
-      "path": "Desarrollo de software/Images/Java/Interface.png"
     }
   ],
   "omittedPaths": [],

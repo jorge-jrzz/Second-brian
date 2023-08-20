@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e802170a09e76f4e",
+        "id": "d80ec6bda3a957ae",
         "type": "tabs",
         "children": [
           {
-            "id": "ca845cea908d1933",
+            "id": "ce584ef0c76f881e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "5c2c6a8f1122a136",
@@ -90,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de software/Java/0 - Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de software/Java/0 - Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Desarrollo de software/Java/0 - Java.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,15 +155,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb11f2cb5e5badef",
+  "active": "ce584ef0c76f881e",
   "lastOpenFiles": [
+    "SCRUM.md",
     "Desarrollo de software/Java/0 - Java.md",
     "Desarrollo de software/Java/Java.lang.md",
     "Desarrollo de software/Java/Paquetes.md",
     "cloud cumputing.md",
     "Universidad/Analisis y diseño orientado a objetos/Introduccion ADOO.md",
     "Desarrollo de software/ONE.md",
-    "Untitled.md",
     "Desarrollo de software/Java/Encapsulamiento y visibilidad.md",
     "Universidad/Bases de datos/Introduccion a las Bases de Datos.md",
     "Universidad/Bases de datos/0 - Bases de datos.md",
